@@ -1,0 +1,921 @@
+id,year,paper,question,marks,command_word,unit,topic,spec_points,skills
+256,2017,1,1.1,1,Name,3.4,DNA and protein synthesis,eukaryotic-organelles; protein-synthesis-translation,
+257,2017,1,1.2,3,Describe,3.4,DNA and protein synthesis,protein-synthesis-translation,
+258,2017,1,1.3,1,Complete,3.4,DNA and protein synthesis,protein-synthesis-transcription; dna-rna-dna-structure,
+259,2017,1,1.4,2,Explain,3.4,DNA and protein synthesis,protein-synthesis-transcription; dna-genes-chromosomes-introns-exons,
+260,2017,1,2.1,2,Describe,3.1,Carbohydrates,carbohydrates-polysaccharides,
+261,2017,1,2.2,2,Suggest,3.1,Carbohydrates,carbohydrates-polysaccharides; monomers-reactions,
+262,2017,1,2.3,2,Suggest; Explain,3.2,Transport across cell membranes,transport-adaptations,
+263,2017,1,2.4,2,Calculate,3.2,All cells arise from other cells,cell-division-cell-cycle,MS 0.2
+264,2017,1,3.1,3,Suggest,3.2,Transport across cell membranes,transport-co-transport; transport-active-transport,
+265,2017,1,3.2,4,Explain,3.2,Transport across cell membranes,transport-osmosis,
+266,2017,1,3.3,2,Explain,3.3,Mass transport in animals,mass-transport-animals-tissue-fluid,
+267,2017,1,4.1,2,Describe,3.2,All cells arise from other cells,cell-division-binary-fission,
+268,2017,1,4.2,4,Explain,3.1,Many proteins are enzymes,enzymes-rate-factors; proteins-structure-levels,
+269,2017,1,4.3,2,Suggest; Explain,3.3,Digestion and absorption,digestion-hydrolysis,
+270,2017,1,4.4,2,Describe; Explain,3.3,Digestion and absorption,digestion-hydrolysis; digestion-absorption,
+271,2017,1,5.1,1,MCQ,3.1,ATP,atp-synthesis,
+272,2017,1,5.2,1,Suggest,3.1,Many proteins are enzymes,enzymes-active-site; proteins-structure-levels,
+273,2017,1,5.3,2,Calculate,3.4,Genetic diversity and adaptation,,MS 0.1
+274,2017,1,5.4,2,Calculate,3.4,Genetic diversity and adaptation,,MS 0.3; MS 2.5
+275,2017,1,5.5,3,Explain,3.4,Genetic diversity and adaptation,adaptation-selection-types; adaptation-natural-selection,
+276,2017,1,6.1,2,Name,3.2,Transport across cell membranes,transport-required-practical-4,PS 2.4
+277,2017,1,6.2,4,Evaluate,3.2,Transport across cell membranes,transport-membrane-structure; transport-required-practical-4,
+278,2017,1,6.3,2,Suggest,3.2,Transport across cell membranes,transport-required-practical-4; transport-simple-diffusion,
+279,2017,1,7.1,3,Describe,3.2,Cell recognition and the immune system,immune-phagocytosis,
+280,2017,1,7.2,3,Describe,3.2,Cell recognition and the immune system,immune-cellular-response; immune-humoral-response,
+281,2017,1,7.3,2,Suggest,3.2,Cell recognition and the immune system,immune-antibodies; immune-antigens,
+282,2017,1,8.1,2,Conclude,3.4,Species and taxonomy,species-taxonomy-phylogenetic,
+283,2017,1,8.2,1,Complete,3.4,Species and taxonomy,species-taxonomy-hierarchy,
+284,2017,1,8.3,1,Name,3.4,Species and taxonomy,species-taxonomy-hierarchy,
+285,2017,1,8.4,3,Name,3.4,Investigating diversity,investigating-diversity-comparing,
+286,2017,1,9.1,3,Explain,3.3,Gas exchange,gas-exchange-adaptations,
+287,2017,1,9.2,2,Explain,3.3,Gas exchange,sa-volume-metabolic-rate; gas-exchange-adaptations,
+288,2017,1,9.3,3,Calculate,3.3,Gas exchange,,MS 4.1; MS 1.1; MS 1.11
+289,2017,1,9.4,2,Suggest,3.2,Methods of studying cells,,AT e; PS 4.1
+290,2017,1,10.1,6,Contrast,3.2,Methods of studying cells,methods-microscopes,
+291,2017,1,10.2,4,Explain,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-meiosis,
+292,2017,1,10.3,5,Describe,3.4,Investigating diversity,investigating-diversity-quantitative,MS 1.9
+558,2017,2,1.1,4,Describe,3.6,Control of heart rate,heart-rate-control,
+559,2017,2,1.2,3,Explain,3.5,Respiration,respiration-link-krebs; respiration-other-substrates,
+560,2017,2,2.1,2,Explain,3.7,Populations in ecosystems,populations-ecosystems-carrying-capacity,
+561,2017,2,2.2,3,Describe,3.7,Populations in ecosystems,populations-ecosystems-estimating; populations-ecosystems-at-h,
+562,2017,2,2.3,1,Suggest,3.7,Populations in ecosystems,populations-ecosystems-carrying-capacity,
+563,2017,2,2.4,1,Suggest,3.7,Populations in ecosystems,populations-ecosystems-carrying-capacity,
+564,2017,2,2.5,2,Describe,3.7,Populations in ecosystems,populations-ecosystems-carrying-capacity,PS 3.1
+565,2017,2,3.1,1,Suggest,3.5,Respiration,respiration-link-krebs; muscles-fibre-types,
+566,2017,2,3.2,3,Explain,3.5,Respiration,respiration-anaerobic; respiration-oxidative-phosphorylation,
+567,2017,2,3.3,2,Calculate,3.6,Skeletal muscles,,MS 4.1; MS 2.2
+568,2017,2,3.4,2,Describe,3.6,Skeletal muscles,muscles-fibre-types,MS 1.3
+569,2017,2,4.1,2,Explain,3.5,Photosynthesis,photosynthesis-required-practical-8; transport-osmosis,
+570,2017,2,4.2,2,Explain,3.5,Photosynthesis,photosynthesis-required-practical-8,PS 2.1
+571,2017,2,4.3,2,Explain,3.5,Photosynthesis,photosynthesis-light-dependent; photosynthesis-required-practical-8,
+572,2017,2,4.4,1,Explain,3.5,Photosynthesis,photosynthesis-required-practical-8,
+573,2017,2,4.5,2,Explain,3.5,Photosynthesis,photosynthesis-light-dependent; photosynthesis-light-independent,
+574,2017,2,5.1,1,Suggest,3.5,Nutrient cycles,nutrient-cycles-microorganisms,
+575,2017,2,5.2,1,Suggest,3.5,Nutrient cycles,nutrient-cycles-microorganisms,
+576,2017,2,5.3,2,Explain,3.5,Energy and ecosystems,energy-ecosystems-primary-production; energy-ecosystems-biomass,
+577,2017,2,5.4,4,Evaluate,3.5,Energy and ecosystems,energy-ecosystems-primary-production; nutrient-cycles-fertilisers,
+578,2017,2,5.5,2,Calculate,3.5,Energy and ecosystems,,MS 0.5; MS 2.5
+579,2017,2,6.1,2,Explain,3.6,Control of blood glucose,blood-glucose-diabetes,
+580,2017,2,6.2,1,MCQ,3.6,Control of blood glucose,blood-glucose-insulin,
+581,2017,2,6.3,2,Suggest,3.8,Most DNA is not translated,stem-cells-types; reg-transcription-factors,
+582,2017,2,6.4,4,Evaluate,3.8,Most DNA is not translated,stem-cells-evaluation,
+583,2017,2,7.1,2,Define,3.7,Inheritance,inheritance-genotype-phenotype,
+584,2017,2,7.2,1,Name,3.7,Inheritance,inheritance-crosses,
+585,2017,2,7.3,1,Name,3.7,Inheritance,inheritance-crosses,
+586,2017,2,7.4,3,Complete,3.7,Inheritance,inheritance-crosses,
+587,2017,2,7.5,2,Calculate,3.7,Populations,populations-hardy-weinberg,
+588,2017,2,8.1,1,Explain,3.8,Recombinant DNA technology,recombinant-dna-fragments,
+589,2017,2,8.2,1,Explain,3.8,Recombinant DNA technology,recombinant-dna-pcr,
+590,2017,2,8.3,2,Explain,3.8,Recombinant DNA technology,recombinant-dna-pcr,
+591,2017,2,8.4,2,Calculate,3.8,Recombinant DNA technology,recombinant-dna-pcr,MS 0.3
+592,2017,2,8.5,1,Suggest,3.8,Recombinant DNA technology,recombinant-dna-pcr,
+593,2017,2,8.6,2,Explain,3.8,Recombinant DNA technology,recombinant-dna-pcr,
+594,2017,2,9.1,1,Define,3.7,Populations,populations-definition,
+595,2017,2,9.2,5,Suggest,3.7,Evolution may lead to speciation,speciation-reproductive-isolation; speciation-selection-types,
+596,2017,2,10.1,2,Calculate,3.6,Synaptic transmission,,MS 0.3
+597,2017,2,10.2,3,Explain,3.6,Synaptic transmission,synapses-cholinergic; synapses-drugs,
+598,2017,2,10.3,2,Suggest; Explain,3.7,Evolution may lead to speciation,speciation-genetic-drift,
+599,2017,2,10.4,2,Explain,3.7,Evolution may lead to speciation,speciation-natural-selection,
+600,2017,2,10.5,2,Suggest; Explain,3.8,Regulation of transcription and translation,reg-epigenetics,
+601,2017,2,10.6,2,Suggest,3.7,Inheritance,inheritance-alleles,
+602,2017,2,10.7,2,Suggest,3.8,DNA probes,dna-probes-screening,
+787,2017,3,1.1,3,Describe,3.6,Synaptic transmission,synapses-cholinergic,
+788,2017,3,1.2,2,Suggest,3.6,Synaptic transmission,muscles-contraction,
+789,2017,3,1.3,2,Suggest; Explain,3.6,Synaptic transmission,synapses-cholinergic; atp-hydrolysis,
+790,2017,3,2.1,1,MCQ,3.2,Prokaryotic cells and viruses,prokaryotic-viruses; prokaryotic-structure,
+791,2017,3,2.2,2,Calculate,3.2,Methods of studying cells,methods-magnification,MS 0.1
+792,2017,3,2.3,1,Define,3.2,Prokaryotic cells and viruses,prokaryotic-viruses,PS 2.1
+793,2017,3,2.4,2,Explain,3.2,Prokaryotic cells and viruses,,MS 2.5; PS 3.1
+794,2017,3,2.5,3,Conclude,3.2,Prokaryotic cells and viruses,prokaryotic-viruses,PS 3.1
+795,2017,3,3.1,2,Name,3.5,Nutrient cycles,nutrient-cycles-fertilisers; nutrient-cycles-nitrogen-cycle,
+796,2017,3,3.2,2,Calculate,3.5,Nutrient cycles,,MS 3.1; MS 0.3
+797,2017,3,3.3,2,Evaluate,3.5,Nutrient cycles,nutrient-cycles-fertilisers,PS 3.1
+798,2017,3,4.1,2,Calculate,3.4,Biodiversity within a community,biodiversity-index,MS 2.3
+799,2017,3,4.2,3,Describe,3.4,Investigating diversity,biodiversity-species-richness,AT k
+800,2017,3,4.3,3,Evaluate,3.4,Biodiversity within a community,biodiversity-species-richness; biodiversity-index,MS 1.9
+801,2017,3,5.1,2,Name,3.1,DNA replication,dna-replication-semi-conservative,
+802,2017,3,5.2,2,Suggest,3.1,Many proteins are enzymes,enzymes-induced-fit; enzymes-active-site,
+803,2017,3,5.3,1,Suggest,3.1,Many proteins are enzymes,enzymes-activation-energy,
+804,2017,3,5.4,3,Suggest,3.8,Gene expression and cancer,cancer-genes,
+805,2017,3,6.1,2,Calculate,3.3,Mass transport in plants,mass-transport-plants-at-b,MS 4.1
+806,2017,3,6.2,3,Describe,3.3,Mass transport in plants,mass-transport-plants-at-b,
+807,2017,3,6.3,1,Suggest,3.3,Mass transport in plants,mass-transport-plants-xylem,
+808,2017,3,6.4,2,Suggest,3.2,Transport across cell membranes,transport-facilitated-diffusion; transport-membrane-structure,
+809,2017,3,6.5,3,Conclude,3.8,Regulation of transcription and translation,reg-rnai,
+810,2017,3,6.6,1,Suggest,3.8,Regulation of transcription and translation,reg-rnai,
+811,2017,3,6.7,3,Evaluate,3.2,Transport across cell membranes,transport-facilitated-diffusion,MS 1.10
+812,2017,3,7.1,25,,,Essay,,
+813,2017,3,7.2,25,,,Essay,,
+217,2018,1,1.1,2,Explain,3.2,All cells arise from other cells,cell-division-mitosis; cell-division-required-practical,
+218,2018,1,1.2,1,MCQ,3.2,All cells arise from other cells,cell-division-mitosis,
+219,2018,1,1.3,2,Suggest,3.2,Methods of studying cells,transport-osmosis; cell-division-required-practical,
+220,2018,1,1.4,1,Suggest,3.4,"DNA, genes and chromosomes",dna-genes-chromosomes-structure,
+221,2018,1,1.5,1,Define,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-meiosis,
+222,2018,1,1.6,2,Describe,3.4,"DNA, genes and chromosomes",dna-genes-chromosomes-structure; prokaryotic-structure,
+223,2018,1,2.1,3,Describe,3.2,Transport across cell membranes,transport-osmosis; transport-required-practical-3,
+224,2018,1,2.2,3,Calculate,3.2,Transport across cell membranes,transport-osmosis,MS 3.5; MS 4.1
+225,2018,1,3.1,1,Define,3.4,Biodiversity within a community,biodiversity-species-richness,
+226,2018,1,3.2,4,Evaluate,3.4,Biodiversity within a community,biodiversity-species-richness,MS 3.1
+227,2018,1,3.3,2,Suggest,3.4,Biodiversity within a community,biodiversity-species-richness,AT k
+228,2018,1,3.4,2,Suggest; Explain,3.4,Biodiversity within a community,biodiversity-index; investigating-diversity-quantitative,AT k
+229,2018,1,3.5,2,Explain,3.4,Species and taxonomy,species-taxonomy-hierarchy,
+230,2018,1,4.1,2,Explain,3.1,Many proteins are enzymes,enzymes-activation-energy; enzymes-induced-fit,
+231,2018,1,4.2,2,Calculate,3.1,Many proteins are enzymes,,MS 0.2
+232,2018,1,4.3,2,Calculate,3.1,Many proteins are enzymes,enzymes-rate-factors,MS 0.3; MS 3.1
+233,2018,1,4.4,3,Suggest,3.1,Many proteins are enzymes,enzymes-induced-fit; enzymes-active-site,
+234,2018,1,5.1,1,Draw,3.1,General properties of proteins,proteins-amino-acids,
+235,2018,1,5.2,2,Define,3.4,"DNA, genes and chromosomes",dna-genes-chromosomes-triplet-code; protein-synthesis-genetic-code-data,
+236,2018,1,5.3,1,Calculate,3.4,"DNA, genes and chromosomes",dna-genes-chromosomes-triplet-code,
+237,2018,1,5.4,1,MCQ,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-gene-mutations; protein-synthesis-genetic-code-data,
+238,2018,1,5.5,3,Suggest,3.1,General properties of proteins,proteins-structure-levels; genetic-diversity-gene-mutations,
+239,2018,1,6.1,2,Complete,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-variation; genetic-diversity-meiosis,
+240,2018,1,6.2,2,Calculate,3.4,Genetic diversity from mutation or meiosis,,MS 0.3; MS 1.9
+241,2018,1,6.3,2,Conclude,3.4,Genetic diversity from mutation or meiosis,,MS 1.9
+242,2018,1,6.4,3,Explain,3.4,Genetic diversity and adaptation,adaptation-selection-types; adaptation-interpreting-data,
+243,2018,1,7.1,2,Explain,3.2,Cell recognition and the immune system,immune-active-passive; immune-antibodies,
+244,2018,1,7.2,2,Suggest,3.2,Cell recognition and the immune system,immune-antigens; immune-antibodies,
+245,2018,1,7.3,2,Suggest,3.2,Cell recognition and the immune system,immune-antibodies,MS 0.3
+246,2018,1,7.4,1,Suggest,3.2,Cell recognition and the immune system,immune-ethics,
+247,2018,1,7.5,3,Explain,3.2,Cell recognition and the immune system,immune-humoral-response; immune-primary-secondary; immune-vaccination,
+248,2018,1,8.1,2,Explain,3.3,Mass transport in plants,mass-transport-plants-phloem; mass-transport-plants-evidence,
+249,2018,1,8.2,2,Explain,3.3,Mass transport in plants,mass-transport-plants-xylem,MS 1.10
+250,2018,1,8.3,4,Conclude,3.3,Mass transport in plants,mass-transport-plants-evidence; mass-transport-plants-xylem; mass-transport-plants-phloem,
+251,2018,1,9.1,3,Describe,3.1,DNA replication,dna-replication-semi-conservative,
+252,2018,1,9.2,3,Explain,3.1,DNA replication,dna-replication-semi-conservative; immune-antibodies; protein-synthesis-translation,
+253,2018,1,10.1,6,Describe,3.3,Gas exchange,gas-exchange-human-system; gas-exchange-ventilation,
+254,2018,1,10.2,5,Compare,3.1,Lipids,lipids-triglycerides; lipids-phospholipids; lipids-properties,
+255,2018,1,10.3,4,Describe,3.1,Carbohydrates,carbohydrates-disaccharides; eukaryotic-organelles,
+514,2018,2,1.1,2,Explain,3.5,Photosynthesis,photosynthesis-light-dependent; photosynthesis-light-independent,
+515,2018,2,1.2,2,Explain,3.5,Photosynthesis,photosynthesis-light-independent,
+516,2018,2,1.3,1,Name,3.5,Photosynthesis,photosynthesis-light-independent,
+517,2018,2,1.4,4,Evaluate,3.5,Photosynthesis,photosynthesis-limiting-factors; enzymes-rate-factors,
+518,2018,2,2.1,1,MCQ,3.8,Alteration of base sequence in DNA,gene-mutations-types,
+519,2018,2,2.2,3,Describe,3.8,Gene expression and cancer,cancer-genes,
+520,2018,2,2.3,2,Calculate,3.8,Gene expression and cancer,cell-division-cell-cycle,MS 0.2
+521,2018,2,3.1,1,Suggest,3.5,Respiration,respiration-anaerobic; respiration-required-practical,
+522,2018,2,3.2,2,Explain,3.5,Respiration,respiration-anaerobic,
+523,2018,2,3.3,2,Calculate,3.5,Respiration,respiration-required-practical,MS 4.1; MS 0.1
+524,2018,2,3.4,1,Explain,3.7,Populations in ecosystems,,MS 2.5
+525,2018,2,3.5,1,Suggest,3.7,Populations in ecosystems,populations-ecosystems-carrying-capacity; respiration-anaerobic,
+526,2018,2,3.6,2,Calculate,3.7,Populations in ecosystems,,MS 2.3; MS 2.5
+527,2018,2,4.1,3,Describe,3.7,Populations in ecosystems,populations-ecosystems-estimating,AT k
+528,2018,2,4.2,4,Explain,3.7,Populations in ecosystems,populations-ecosystems-succession,
+529,2018,2,4.3,1,Explain,3.7,Populations in ecosystems,populations-ecosystems-succession,
+530,2018,2,4.4,2,Conclude,3.5,Energy and ecosystems,energy-ecosystems-primary-production,
+531,2018,2,5.1,2,Suggest; Explain,3.6,Control of blood water potential,kidneys-osmoregulation,PS 2.4
+532,2018,2,5.2,2,Conclude,3.6,Control of blood water potential,kidneys-osmoregulation,MS 1.10
+533,2018,2,5.3,1,Suggest,3.6,Control of blood water potential,kidneys-osmoregulation,
+534,2018,2,5.4,3,Explain,3.6,Control of blood water potential,kidneys-nephron,
+535,2018,2,5.5,1,Calculate,3.6,Control of blood water potential,,MS 0.3
+536,2018,2,6.1,2,Suggest,3.7,Inheritance,inheritance-crosses; inheritance-chi-squared,
+537,2018,2,6.2,1,Name,3.7,Inheritance,inheritance-genotype-phenotype,
+538,2018,2,6.3,3,Explain,3.7,Inheritance,inheritance-crosses,
+539,2018,2,6.4,2,Complete,3.7,Inheritance,inheritance-crosses,
+540,2018,2,7.1,3,Describe,3.6,Synaptic transmission,synapses-cholinergic,
+541,2018,2,7.2,2,Explain,3.6,Synaptic transmission,synapses-drugs,
+542,2018,2,7.3,3,Explain,3.6,Synaptic transmission,synapses-structure,
+543,2018,2,8.1,1,Define,3.8,Using genome projects,protein-synthesis-genome-proteome,
+544,2018,2,8.2,2,Explain,3.8,Regulation of transcription and translation,immune-antibodies; reg-transcription-factors,
+545,2018,2,8.3,1,Explain,3.8,Regulation of transcription and translation,reg-transcription-factors,
+546,2018,2,8.4,1,Suggest,3.8,Regulation of transcription and translation,reg-transcription-factors; recombinant-dna-in-vivo,
+547,2018,2,8.5,2,Describe,3.8,Recombinant DNA technology,recombinant-dna-in-vivo,
+548,2018,2,8.6,2,Suggest,3.8,Genetic fingerprinting,genetic-fingerprinting-technique; proteins-amino-acids,
+549,2018,2,9.1,4,Describe,3.7,Evolution may lead to speciation,speciation-natural-selection; speciation-selection-types,
+550,2018,2,9.2,2,Explain,3.7,Inheritance,inheritance-alleles,
+551,2018,2,9.3,2,Suggest; Explain,3.8,Regulation of transcription and translation,reg-transcription-factors; gene-mutations-effects,
+552,2018,2,10.1,3,Explain,3.6,Receptors,receptors-retina,
+553,2018,2,10.2,2,Calculate,3.7,Populations,populations-hardy-weinberg,MS 2.4
+554,2018,2,10.3,2,Explain,3.7,Inheritance,inheritance-crosses,
+555,2018,2,10.4,3,Explain,3.6,Receptors,receptors-retina,
+556,2018,2,10.5,2,Suggest,3.8,Most DNA is not translated,stem-cells-types,
+557,2018,2,10.6,3,Suggest; Explain,3.8,Most DNA is not translated,stem-cells-evaluation,
+759,2018,3,1.1,2,Explain,3.6,Homeostasis and negative feedback,homeostasis-negative-feedback; blood-glucose-insulin,
+760,2018,3,1.2,2,Suggest,3.1,General properties of proteins,proteins-structure-levels,
+761,2018,3,1.3,2,Explain,3.6,Control of blood glucose,blood-glucose-insulin,
+762,2018,3,2.1,1,Name,3.2,Cell recognition and the immune system,,MS 1.9
+763,2018,3,2.2,3,Conclude,3.2,Cell recognition and the immune system,cancer-evaluating; immune-monoclonal-antibodies,
+764,2018,3,2.3,2,Calculate,3.2,Cell recognition and the immune system,,MS 0.2; MS 0.3; MS 1.6
+765,2018,3,2.4,3,Suggest,3.8,Regulation of transcription and translation,reg-transcription-factors,
+766,2018,3,3.1,1,Complete,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-meiosis,
+767,2018,3,3.2,1,MCQ,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-meiosis,
+768,2018,3,3.3,2,Calculate,3.4,Genetic diversity from mutation or meiosis,,MS 4.1; MS 0.1
+769,2018,3,3.4,2,Suggest,3.4,Genetic diversity from mutation or meiosis,eukaryotic-organelles; genetic-diversity-meiosis,
+770,2018,3,3.5,2,Suggest; Explain,3.1,ATP,atp-hydrolysis; respiration-oxidative-phosphorylation,
+771,2018,3,4.1,2,Explain,3.3,Mass transport in animals,mass-transport-animals-haemoglobin,
+772,2018,3,4.2,2,Calculate,3.2,Methods of studying cells,,MS 0.2; MS 4.1
+773,2018,3,4.3,2,Suggest,3.2,Methods of studying cells,,PS 1.2
+774,2018,3,4.4,1,Suggest,3.2,Methods of studying cells,,PS 1.2
+775,2018,3,4.5,1,Explain,3.2,Methods of studying cells,eukaryotic-organelles; methods-microscopes,
+776,2018,3,5.1,2,Suggest,3.2,Methods of studying cells,methods-fractionation; transport-membrane-structure,
+777,2018,3,5.2,2,Explain,3.2,Methods of studying cells,methods-fractionation,
+778,2018,3,5.3,3,Suggest,3.8,Regulation of transcription and translation,reg-rnai,
+779,2018,3,6.1,2,Suggest,3.5,Nutrient cycles,nutrient-cycles-nitrogen-cycle,MS 0.1
+780,2018,3,6.2,2,Calculate,3.5,Nutrient cycles,,MS 0.1; MS 3.5
+781,2018,3,6.3,3,Evaluate,3.5,Nutrient cycles,nutrient-cycles-nitrogen-cycle; enzymes-rate-factors,
+782,2018,3,6.4,2,Calculate,3.5,Nutrient cycles,,MS 2.5; MS 0.3
+783,2018,3,6.5,4,Explain,3.7,Populations in ecosystems,protein-synthesis-transcription,PS 1.2
+784,2018,3,6.6,2,Suggest; Explain,3.7,Populations in ecosystems,,AT i
+785,2018,3,7.1,25,,,Essay,,
+786,2018,3,7.2,25,,,Essay,,
+181,2019,1,1.1,3,Describe,3.1,Many proteins are enzymes,enzymes-rate-factors,
+182,2019,1,1.2,1,Explain,3.1,Many proteins are enzymes,enzymes-rate-factors,
+183,2019,1,1.3,2,Calculate,3.2,Methods of studying cells,methods-magnification,MS 1.8; MS 1.11
+184,2019,1,1.4,2,Explain,3.2,Methods of studying cells,digestion-absorption; methods-microscopes,
+185,2019,1,2.1,3,Complete,3.2,Structure of eukaryotic cells,eukaryotic-organelles; prokaryotic-structure,
+186,2019,1,2.2,4,Evaluate,3.3,Mass transport in animals,mass-transport-animals-data,MS 1.10
+187,2019,1,2.3,2,Suggest,3.3,Mass transport in animals,mass-transport-animals-data,PS 2.1
+188,2019,1,3.1,1,Name,3.4,Biodiversity within a community,biodiversity-index,
+189,2019,1,3.2,2,Name,3.4,Biodiversity within a community,biodiversity-index,AT k
+190,2019,1,3.3,1,Suggest,3.4,Biodiversity within a community,biodiversity-farming,
+191,2019,1,3.4,2,Suggest; Explain,3.4,Biodiversity within a community,biodiversity-farming,
+192,2019,1,4.1,3,Explain,3.4,Genetic diversity and adaptation,adaptation-natural-selection; adaptation-selection-types,
+193,2019,1,4.2,3,Name,3.4,"DNA, genes and chromosomes",dna-genes-chromosomes-genes; protein-synthesis-transcription; protein-synthesis-translation; proteins-structure-levels,
+194,2019,1,4.3,1,MCQ,3.4,Genetic diversity from mutation or meiosis,inheritance-chi-squared,MS 1.9
+195,2019,1,4.4,3,Conclude,3.4,Genetic diversity from mutation or meiosis,inheritance-chi-squared,MS 1.4
+196,2019,1,5.1,4,Describe,3.2,Cell recognition and the immune system,prokaryotic-viruses; immune-hiv-structure-replication,
+197,2019,1,5.2,1,MCQ,3.2,Cell recognition and the immune system,immune-hiv-structure-replication,MS 0.1
+198,2019,1,5.3,3,Suggest,3.2,Cell recognition and the immune system,immune-hiv-aids-antibiotics; immune-cellular-response; immune-humoral-response,
+199,2019,1,6.1,2,Describe; Explain,3.2,All cells arise from other cells,cell-division-cell-cycle,
+200,2019,1,6.2,5,Describe,3.1,DNA replication,dna-replication-semi-conservative,
+201,2019,1,6.3,3,Suggest; Explain,3.2,Cell recognition and the immune system,immune-elisa,
+202,2019,1,7.1,1,Suggest,3.3,Surface area to volume ratio,sa-volume-ratio,
+203,2019,1,7.2,2,Complete,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-meiosis; cell-division-mitosis,
+204,2019,1,7.3,2,Suggest; Explain,3.4,Species and taxonomy,species-taxonomy-courtship,
+205,2019,1,8.1,2,Complete,3.3,Mass transport in plants,transport-required-practical-3,AT c
+206,2019,1,8.2,2,Calculate,3.3,Mass transport in plants,transport-required-practical-3,MS 1.1; MS 3.3
+207,2019,1,8.3,2,Calculate,3.3,Mass transport in plants,,MS 3.1; MS 0.3
+208,2019,1,8.4,2,Suggest; Explain,3.3,Mass transport in plants,gas-exchange-water-loss,
+209,2019,1,8.5,2,Explain,3.3,Mass transport in plants,gas-exchange-water-loss; photosynthesis-limiting-factors,
+210,2019,1,9.1,3,Draw,3.3,Mass transport in animals,mass-transport-animals-dissociation,MS 3.2
+211,2019,1,9.2,2,Calculate,3.3,Mass transport in animals,sa-volume-metabolic-rate,MS 2.3
+212,2019,1,9.3,2,Suggest,3.3,Mass transport in animals,mass-transport-animals-dissociation,
+213,2019,1,9.4,3,Explain,3.3,Surface area to volume ratio,sa-volume-metabolic-rate,
+214,2019,1,10.1,5,Explain,3.1,Water,water-metabolite-solvent; water-thermal; water-cohesion,
+215,2019,1,10.2,5,Describe,3.1,Carbohydrates,carbohydrates-tests; lipids-emulsion-test; proteins-biuret-test,
+216,2019,1,10.3,5,Describe,3.1,Monomers and polymers,monomers-reactions; monomers-definitions,
+472,2019,2,1.1,4,Describe; Explain,3.7,Populations in ecosystems,populations-ecosystems-succession,
+473,2019,2,1.2,1,Calculate,3.5,Energy and ecosystems,energy-ecosystems-consumer-production,MS 0.3; MS 1.1
+474,2019,2,1.3,2,Calculate,3.5,Energy and ecosystems,energy-ecosystems-consumer-production,MS 0.3
+475,2019,2,2.1,3,Explain,3.8,Alteration of base sequence in DNA,gene-mutations-effects; proteins-structure-levels,
+476,2019,2,2.2,3,Explain,3.8,Most DNA is not translated,stem-cells-types; stem-cells-evaluation,
+477,2019,2,2.3,3,Evaluate,3.8,Most DNA is not translated,stem-cells-evaluation; recombinant-dna-issues,
+478,2019,2,3.1,2,Explain,3.6,Survival and response,survival-response-growth-factors,PS 2.4
+479,2019,2,3.2,2,Explain,3.6,Survival and response,respiration-glycolysis,
+480,2019,2,3.3,2,Explain,3.6,Survival and response,,PS 2.4
+481,2019,2,3.4,3,Describe; Explain,3.6,Survival and response,survival-response-growth-factors,
+482,2019,2,3.5,1,Complete,3.6,Survival and response,,AT c; MS 0.3
+483,2019,2,4.1,4,Evaluate,3.6,Skeletal muscles,muscles-contraction,PS 2.3
+484,2019,2,4.2,3,Explain,3.6,Skeletal muscles,muscles-contraction,
+485,2019,2,4.3,2,Explain,3.5,Respiration,respiration-anaerobic,
+486,2019,2,5.1,2,Describe,3.6,Control of blood glucose,blood-glucose-liver; blood-glucose-glucagon,
+487,2019,2,5.2,2,Calculate,3.6,Control of blood glucose,dna-rna-dna-structure,MS 0.1; MS 1.1
+488,2019,2,5.3,2,Explain,3.6,Control of blood glucose,blood-glucose-insulin; blood-glucose-diabetes,
+489,2019,2,5.4,3,Explain,3.6,Control of blood glucose,blood-glucose-second-messenger,
+490,2019,2,6.1,1,Name,3.7,Inheritance,inheritance-crosses,
+491,2019,2,6.2,1,Name,3.7,Inheritance,inheritance-genotype-phenotype,
+492,2019,2,6.3,2,Explain,3.7,Inheritance,inheritance-crosses,
+493,2019,2,6.4,3,Complete,3.7,Inheritance,inheritance-crosses,
+494,2019,2,6.5,2,Calculate,3.7,Populations,populations-hardy-weinberg,MS 2.4
+495,2019,2,7.1,1,MCQ,3.5,Photosynthesis,photosynthesis-light-dependent,
+496,2019,2,7.2,2,Describe,3.5,Photosynthesis,photosynthesis-light-dependent,
+497,2019,2,7.3,1,Explain,3.5,Photosynthesis,photosynthesis-required-practical-7,
+498,2019,2,7.4,2,Describe,3.5,Photosynthesis,photosynthesis-required-practical-7,
+499,2019,2,7.5,1,Calculate,3.5,Photosynthesis,photosynthesis-required-practical-7,MS 2.3
+500,2019,2,7.6,1,Suggest; Explain,3.5,Photosynthesis,photosynthesis-light-dependent,
+501,2019,2,8.1,2,Define,3.8,DNA probes,dna-probes-hybridisation,
+502,2019,2,8.2,2,Describe,3.8,DNA probes,recombinant-dna-fragments; dna-probes-hybridisation,
+503,2019,2,8.3,1,Explain,3.8,DNA probes,dna-probes-hybridisation,
+504,2019,2,8.4,2,Suggest; Explain,3.8,DNA probes,genetic-fingerprinting-technique,
+505,2019,2,8.5,1,Name,3.8,DNA probes,genetic-fingerprinting-technique,
+506,2019,2,9.1,5,Describe,3.7,Populations in ecosystems,populations-ecosystems-estimating,AT k
+507,2019,2,9.2,2,Suggest; Explain,3.5,Nutrient cycles,nutrient-cycles-nitrogen-cycle,
+508,2019,2,10.1,3,Explain,3.6,Nerve impulses,nerve-impulses-speed; synapses-comparison,
+509,2019,2,10.2,3,Suggest; Explain,3.6,Control of heart rate,heart-rate-control; nerve-impulses-speed,
+510,2019,2,10.3,3,Suggest; Explain,3.8,Regulation of transcription and translation,protein-synthesis-translation; reg-rnai,
+511,2019,2,10.4,2,Suggest,3.8,Regulation of transcription and translation,reg-interpreting-data,
+512,2019,2,10.5,2,Suggest,3.8,Regulation of transcription and translation,digestion-hydrolysis,
+513,2019,2,10.6,2,Suggest; Explain,3.8,Regulation of transcription and translation,reg-epigenetics,
+729,2019,3,1.1,3,Describe,3.6,Control of blood water potential,kidneys-nephron,
+730,2019,3,1.2,1,MCQ,3.6,Control of blood water potential,kidneys-nephron,
+731,2019,3,1.3,1,Calculate,3.6,Control of blood water potential,kidneys-nephron,MS 2.2
+732,2019,3,1.4,3,Explain,3.6,Control of blood water potential,kidneys-nephron,
+733,2019,3,2.1,2,Describe,3.5,Nutrient cycles,nutrient-cycles-microorganisms; nutrient-cycles-nitrogen-cycle,
+734,2019,3,2.2,3,Describe,3.5,Nutrient cycles,nutrient-cycles-fertilisers,AT b
+735,2019,3,3.1,1,Name,3.3,Mass transport in animals,mass-transport-animals-circulation; mass-transport-animals-at-h,
+736,2019,3,3.2,1,Name,3.3,Mass transport in animals,mass-transport-animals-at-h,
+737,2019,3,3.3,2,Explain,3.3,Mass transport in animals,mass-transport-animals-cardiac-cycle,
+738,2019,3,3.4,2,Suggest,3.6,Control of heart rate,heart-rate-control,
+739,2019,3,3.5,1,Calculate,3.6,Control of heart rate,mass-transport-animals-cardiac-cycle,MS 3.1
+740,2019,3,3.6,2,Suggest,3.6,Control of heart rate,,PS 2.1
+741,2019,3,4.1,1,Name,3.8,Alteration of base sequence in DNA,gene-mutations-types,
+742,2019,3,4.2,3,Evaluate,3.8,Alteration of base sequence in DNA,respiration-link-krebs,PS 2.3
+743,2019,3,4.3,2,Suggest,3.8,Alteration of base sequence in DNA,gene-mutations-effects; reg-transcription-factors,
+744,2019,3,4.4,3,Evaluate,3.5,Respiration,respiration-link-krebs; respiration-oxidative-phosphorylation,
+745,2019,3,5.1,1,Name,3.6,Survival and response,survival-response-taxes-kineses; survival-response-required-practical,
+746,2019,3,5.2,1,Suggest,3.6,Survival and response,survival-response-required-practical,PS 2.4
+747,2019,3,5.3,3,Evaluate,3.6,Survival and response,survival-response-taxes-kineses,MS 1.4
+748,2019,3,5.4,2,Calculate,3.6,Survival and response,,MS 0.1
+749,2019,3,6.1,1,Calculate,3.8,Gene expression and cancer,cancer-tumours,MS 2.5
+750,2019,3,6.2,1,Calculate,3.8,Gene expression and cancer,cancer-tumours,MS 2.5
+751,2019,3,6.3,3,Suggest,3.8,Gene expression and cancer,enzymes-rate-factors; cancer-evaluating; dna-replication-semi-conservative,
+752,2019,3,6.4,2,Suggest,3.8,Gene expression and cancer,cancer-evaluating,MS 0.3
+753,2019,3,6.5,2,Calculate,3.8,Gene expression and cancer,,MS 4.1; MS 0.3
+754,2019,3,6.6,2,Explain,3.8,Gene expression and cancer,cancer-evaluating,MS 1.10
+755,2019,3,6.7,1,Name,3.8,Gene expression and cancer,,PS 2.4
+756,2019,3,6.8,3,Evaluate,3.8,Gene expression and cancer,,PS 2.3
+757,2019,3,7.1,25,,,Essay,,
+758,2019,3,7.2,25,,,Essay,,
+145,2020,1,1.1,2,Explain,3.1,ATP,atp-hydrolysis; transport-active-transport,
+146,2020,1,1.2,2,Explain,3.3,Digestion and absorption,transport-co-transport; digestion-absorption,
+147,2020,1,1.3,2,Describe; Explain,3.3,Digestion and absorption,eukaryotic-specialisation; transport-adaptations; digestion-absorption,
+148,2020,1,1.4,2,Draw,3.2,Transport across cell membranes,transport-membrane-structure; lipids-phospholipids,
+149,2020,1,1.5,2,Describe,3.1,General properties of proteins,proteins-amino-acids; proteins-peptide-bonds,
+150,2020,1,2.1,3,Explain,3.3,Digestion and absorption,digestion-hydrolysis; lipids-triglycerides,
+151,2020,1,2.2,2,Explain,3.3,Digestion and absorption,enzymes-rate-factors,
+152,2020,1,2.3,3,Describe,3.3,Digestion and absorption,digestion-absorption,
+153,2020,1,3.1,2,Explain,3.3,Mass transport in animals,mass-transport-animals-cardiac-cycle,
+154,2020,1,3.2,2,Explain,3.3,Mass transport in animals,mass-transport-animals-vessels; mass-transport-animals-cardiac-cycle,
+155,2020,1,3.3,2,Describe,3.3,Mass transport in animals,mass-transport-animals-cardiac-cycle,
+156,2020,1,3.4,1,Calculate,3.3,Mass transport in animals,mass-transport-animals-cardiac-cycle,MS 3.1
+157,2020,1,4.1,1,MCQ,3.2,Transport across cell membranes,transport-required-practical-4,MS 0.3
+158,2020,1,4.2,2,Name,3.2,Transport across cell membranes,transport-required-practical-4,
+159,2020,1,4.3,4,Explain,3.2,Transport across cell membranes,transport-required-practical-4; transport-membrane-structure,AT b
+160,2020,1,4.4,3,Describe,3.2,Transport across cell membranes,transport-required-practical-4,AT c
+161,2020,1,5.1,2,Describe,3.1,DNA replication,dna-replication-semi-conservative,
+162,2020,1,5.2,2,Calculate,3.1,DNA replication,cell-division-cell-cycle,MS 0.3
+163,2020,1,5.3,2,Describe,3.1,Many proteins are enzymes,atp-hydrolysis,
+164,2020,1,5.4,2,Suggest,3.2,All cells arise from other cells,cell-division-cancer; cell-division-cell-cycle,
+165,2020,1,6.1,3,Explain,3.3,Gas exchange,gas-exchange-human-system; gas-exchange-lung-disease,
+166,2020,1,6.2,2,Justify,3.3,Gas exchange,gas-exchange-lung-disease,MS 3.3; MS 3.5
+167,2020,1,7.1,2,Describe,3.1,Carbohydrates,carbohydrates-disaccharides; monomers-reactions,
+168,2020,1,7.2,3,Draw,3.2,Cell recognition and the immune system,immune-antibodies,
+169,2020,1,7.3,2,Suggest,3.2,Cell recognition and the immune system,immune-antigens; immune-antibodies,
+170,2020,1,8.1,3,Complete,3.4,"DNA, genes and chromosomes",dna-genes-chromosomes-structure; prokaryotic-structure,
+171,2020,1,8.2,2,Define,3.4,"DNA, genes and chromosomes",dna-genes-chromosomes-introns-exons,
+172,2020,1,8.3,1,Complete,3.4,Species and taxonomy,species-taxonomy-phylogenetic,
+173,2020,1,8.4,2,Evaluate,3.4,Species and taxonomy,species-taxonomy-phylogenetic; investigating-diversity-interpreting,
+174,2020,1,9.1,2,Calculate,3.3,Mass transport in plants,gas-exchange-adaptations,MS 0.1; MS 1.2; MS 4.1
+175,2020,1,9.2,2,Name,3.3,Mass transport in plants,gas-exchange-adaptations,MS 1.9
+176,2020,1,9.3,2,Calculate,3.3,Mass transport in plants,gas-exchange-adaptations,MS 3.5
+177,2020,1,9.4,4,Evaluate,3.3,Mass transport in plants,gas-exchange-water-loss; mass-transport-plants-xylem,
+178,2020,1,10.1,5,Describe,3.4,DNA and protein synthesis,protein-synthesis-transcription,
+179,2020,1,10.2,6,Describe,3.4,DNA and protein synthesis,protein-synthesis-translation,
+180,2020,1,10.3,4,Define,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-gene-mutations; dna-genes-chromosomes-triplet-code,
+818,2020,1,7.4,3,Evaluate,3.2,Cell recognition and the immune system,immune-humoral-response; immune-primary-secondary,
+435,2020,2,1.1,2,Suggest; Explain,3.6,Receptors,muscles-antagonistic,
+436,2020,2,1.2,3,Explain,3.6,Receptors,receptors-retina,
+437,2020,2,1.3,2,Calculate,3.6,Receptors,receptors-retina,MS 0.1; MS 0.3; MS 4.1
+438,2020,2,1.4,3,Explain,3.6,Receptors,receptors-retina,
+439,2020,2,2.1,2,Explain,3.8,Regulation of transcription and translation,reg-transcription-factors; transport-membrane-structure,
+440,2020,2,2.2,2,Suggest; Explain,3.8,Regulation of transcription and translation,reg-transcription-factors; proteins-structure-levels,
+441,2020,2,2.3,2,Suggest,3.8,Regulation of transcription and translation,reg-transcription-factors,
+442,2020,2,2.4,3,Conclude,3.8,Gene expression and cancer,cancer-evaluating,MS 1.4
+443,2020,2,3.1,2,Explain,3.5,Energy and ecosystems,energy-ecosystems-biomass,
+444,2020,2,3.2,2,Calculate,3.5,Energy and ecosystems,energy-ecosystems-biomass,MS 0.1
+445,2020,2,3.3,2,Suggest,3.5,Energy and ecosystems,photosynthesis-limiting-factors; energy-ecosystems-primary-production,
+446,2020,2,3.4,2,Name,3.5,Photosynthesis,photosynthesis-light-dependent; photosynthesis-light-independent,
+447,2020,2,3.5,2,Calculate,3.5,Photosynthesis,cell-division-cell-cycle,MS 0.2
+448,2020,2,4.1,3,Explain,3.6,Skeletal muscles,muscles-structure,
+449,2020,2,4.2,4,Describe,3.6,Skeletal muscles,blood-glucose-required-practical,AT b; AT c
+450,2020,2,4.3,2,Describe,3.6,Skeletal muscles,blood-glucose-required-practical,AT b
+451,2020,2,5,5,Describe,3.6,Synaptic transmission,synapses-cholinergic,
+452,2020,2,6.1,2,Name,3.7,Evolution may lead to speciation,speciation-variation; genetic-diversity-meiosis,
+453,2020,2,6.2,1,Name,3.7,Inheritance,inheritance-genotype-phenotype,
+454,2020,2,6.3,3,Complete,3.7,Inheritance,inheritance-crosses,
+455,2020,2,6.4,2,Calculate,3.7,Inheritance,populations-hardy-weinberg,MS 2.4
+456,2020,2,7.1,1,Calculate,3.5,Nutrient cycles,nutrient-cycles-fertilisers,MS 0.3
+457,2020,2,7.2,5,Evaluate,3.5,Nutrient cycles,nutrient-cycles-fertilisers,
+458,2020,2,7.3,2,Suggest,3.5,Nutrient cycles,energy-ecosystems-biomass,
+459,2020,2,8.1,2,Suggest,3.6,Control of blood water potential,kidneys-nephron,
+460,2020,2,8.2,1,MCQ,3.7,Inheritance,inheritance-crosses,
+461,2020,2,8.3,4,Evaluate,3.8,Most DNA is not translated,stem-cells-evaluation,
+462,2020,2,8.4,2,Suggest,3.8,Most DNA is not translated,stem-cells-totipotent; stem-cells-evaluation,
+463,2020,2,9.1,2,Describe,3.8,Recombinant DNA technology,recombinant-dna-in-vivo,
+464,2020,2,9.2,2,Suggest; Explain,3.8,Recombinant DNA technology,recombinant-dna-in-vivo,
+465,2020,2,9.3,2,Conclude,3.8,Recombinant DNA technology,recombinant-dna-in-vivo,MS 1.10
+466,2020,2,9.4,2,Explain,3.8,Recombinant DNA technology,recombinant-dna-in-vivo,
+467,2020,2,10.1,3,Suggest; Explain,3.6,Homeostasis and negative feedback,respiration-other-substrates; blood-glucose-liver; kidneys-osmoregulation,
+468,2020,2,10.2,4,Describe,3.6,Control of heart rate,heart-rate-control,
+469,2020,2,10.3,2,Suggest; Explain,3.6,Homeostasis and negative feedback,respiration-oxidative-phosphorylation,
+470,2020,2,10.4,2,Suggest; Explain,3.7,Evolution may lead to speciation,speciation-natural-selection,
+471,2020,2,10.5,4,Explain,3.7,Evolution may lead to speciation,speciation-natural-selection; speciation-selection-types,
+704,2020,3,1.1,3,Suggest,3.7,Populations in ecosystems,species-taxonomy-courtship,PS 2.1
+705,2020,3,1.2,3,Suggest; Explain,3.7,Populations in ecosystems,species-taxonomy-courtship; speciation-natural-selection,
+706,2020,3,1.3,3,Describe,3.7,Evolution may lead to speciation,speciation-reproductive-isolation,
+707,2020,3,2.1,1,Name,3.7,Populations in ecosystems,populations-ecosystems-carrying-capacity,
+708,2020,3,2.2,3,Suggest; Explain,3.7,Populations in ecosystems,populations-ecosystems-conservation,
+709,2020,3,3.1,2,Suggest; Explain,3.2,Cell recognition and the immune system,prokaryotic-viruses; immune-antigens,
+710,2020,3,3.2,1,Name,3.8,Recombinant DNA technology,recombinant-dna-pcr; genetic-fingerprinting-technique; genome-projects-sequencing,
+711,2020,3,3.3,2,Explain,3.8,Using genome projects,genome-projects-sequencing; immune-vaccination,
+712,2020,3,3.4,3,Describe,3.2,Cell recognition and the immune system,immune-humoral-response; immune-vaccination,
+713,2020,3,4.1,2,Calculate,3.6,Control of blood water potential,,MS 0.1
+714,2020,3,4.2,2,Name,3.6,Control of blood water potential,,PS 2.4
+715,2020,3,4.3,2,Calculate,3.6,Control of blood water potential,,MS 0.3
+716,2020,3,4.4,3,Suggest,3.6,Control of blood water potential,transport-osmosis,
+717,2020,3,5.1,2,Calculate,3.8,Gene expression and cancer,,MS 0.3; MS 1.2
+718,2020,3,5.2,3,Suggest,3.8,Regulation of transcription and translation,reg-epigenetics; cancer-genes; enzymes-rate-factors,
+719,2020,3,5.3,3,Suggest,3.8,Gene expression and cancer,cancer-evaluating,
+720,2020,3,6.1,2,Describe,3.3,Mass transport in animals,mass-transport-animals-dissociation,
+721,2020,3,6.2,2,Calculate,3.3,Mass transport in animals,,MS 0.3; MS 3.1
+722,2020,3,6.3,2,Suggest; Explain,3.3,Mass transport in animals,gas-exchange-ventilation,
+723,2020,3,6.4,1,MCQ,3.6,Skeletal muscles,muscles-atp-phosphocreatine,
+724,2020,3,6.5,4,Justify,3.6,Skeletal muscles,respiration-link-krebs; muscles-fibre-types,
+725,2020,3,6.6,2,Suggest,3.3,Mass transport in animals,mass-transport-animals-circulation,
+726,2020,3,6.7,2,Suggest,3.3,Mass transport in animals,,MS 1.10
+727,2020,3,7.1,25,,,Essay,,
+728,2020,3,7.2,25,,,Essay,,
+108,2021,1,1.1,3,Describe,3.1,Many proteins are enzymes,enzymes-induced-fit; enzymes-activation-energy,
+109,2021,1,1.2,1,MCQ,3.1,ATP,atp-synthesis,
+110,2021,1,1.3,2,Suggest,3.1,Many proteins are enzymes,enzymes-rate-factors,
+111,2021,1,1.4,2,Explain,3.1,Many proteins are enzymes,enzymes-rate-factors,
+112,2021,1,2.1,2,Explain,3.3,Surface area to volume ratio,sa-volume-ratio,
+113,2021,1,2.2,2,Suggest,3.3,Gas exchange,gas-exchange-adaptations,
+114,2021,1,2.3,2,Justify,3.3,Gas exchange,gas-exchange-adaptations,
+115,2021,1,2.4,2,Explain,3.3,Gas exchange,gas-exchange-adaptations,
+116,2021,1,2.5,3,Calculate,3.3,Gas exchange,,MS 0.3; MS 1.1
+117,2021,1,3.1,3,Describe,3.4,DNA and protein synthesis,protein-synthesis-translation,
+118,2021,1,3.2,2,Suggest,3.4,DNA and protein synthesis,genetic-diversity-gene-mutations; proteins-structure-levels,
+119,2021,1,3.3,2,Complete,3.4,DNA and protein synthesis,genetic-diversity-gene-mutations; protein-synthesis-genetic-code-data,
+120,2021,1,4.1,2,Suggest,3.3,Mass transport in animals,mass-transport-animals-required-practical,
+121,2021,1,4.2,2,Name,3.3,Mass transport in animals,mass-transport-animals-vessels,
+122,2021,1,4.3,2,Describe,3.3,Mass transport in animals,mass-transport-animals-required-practical,
+123,2021,1,5.1,4,Describe,3.2,Methods of studying cells,methods-fractionation,
+124,2021,1,5.2,2,Describe,3.2,Structure of eukaryotic cells,eukaryotic-organelles,
+125,2021,1,5.3,1,Calculate,3.2,Structure of eukaryotic cells,,MS 0.3
+126,2021,1,5.4,3,Suggest,3.2,Structure of eukaryotic cells,eukaryotic-organelles,
+127,2021,1,6.1,2,Calculate,3.2,All cells arise from other cells,cell-division-mitosis,MS 0.1
+128,2021,1,6.2,5,Describe,3.2,All cells arise from other cells,cell-division-mitosis,
+129,2021,1,7.1,3,Describe,3.2,Cell recognition and the immune system,immune-phagocytosis; immune-monoclonal-antibodies,
+130,2021,1,7.2,2,Explain,3.2,Cell recognition and the immune system,immune-monoclonal-antibodies,
+131,2021,1,7.3,2,Calculate,3.2,Cell recognition and the immune system,,MS 0.1; MS 0.2
+132,2021,1,7.4,1,Suggest,3.2,Cell recognition and the immune system,immune-ethics,
+133,2021,1,7.5,2,Suggest,3.2,Cell recognition and the immune system,immune-ethics,
+134,2021,1,8.1,3,Describe,3.1,Lipids,lipids-triglycerides,
+135,2021,1,8.2,1,MCQ,3.1,Lipids,lipids-fatty-acids,
+136,2021,1,8.3,1,Suggest,3.3,Mass transport in plants,,MS 1.11
+137,2021,1,8.4,4,Explain,3.4,Genetic diversity and adaptation,lipids-properties; adaptation-types,MS 1.10
+138,2021,1,8.5,1,Explain,3.4,Genetic diversity and adaptation,species-taxonomy-hierarchy,
+139,2021,1,9.1,2,Complete,3.1,General,carbohydrates-monosaccharides; lipids-phospholipids; dna-rna-nucleotides,
+140,2021,1,9.2,2,Calculate,3.2,All cells arise from other cells,cell-division-binary-fission,MS 2.5
+141,2021,1,9.3,3,Explain,3.1,DNA replication,dna-replication-semi-conservative,
+142,2021,1,10.1,5,Describe,3.1,Structure of DNA and RNA,dna-rna-dna-structure,
+143,2021,1,10.2,5,Describe,3.2,Transport across cell membranes,transport-simple-diffusion; transport-facilitated-diffusion; transport-osmosis; transport-active-transport; transport-co-transport,
+144,2021,1,10.3,5,Contrast,3.2,Methods of studying cells,prokaryotic-structure; eukaryotic-organelles,
+403,2021,2,1.1,4,Describe,3.5,Respiration,respiration-glycolysis,
+404,2021,2,1.2,2,Explain,3.5,Respiration,respiration-link-krebs; respiration-oxidative-phosphorylation,
+405,2021,2,2.1,3,Explain,3.6,Nerve impulses,nerve-impulses-resting-potential,
+406,2021,2,2.2,3,Explain,3.6,Nerve impulses,nerve-impulses-speed,
+407,2021,2,2.3,3,Explain,3.6,Nerve impulses,nerve-impulses-resting-potential,
+408,2021,2,3.1,3,Explain,3.6,Survival and response,survival-response-growth-factors,
+409,2021,2,3.2,5,Describe,3.6,Survival and response,survival-response-growth-factors,
+410,2021,2,3.3,2,Conclude,3.6,Survival and response,survival-response-growth-factors,
+411,2021,2,4.1,2,Explain,3.7,Inheritance,inheritance-crosses,
+412,2021,2,4.2,1,MCQ,3.7,Inheritance,inheritance-crosses,
+413,2021,2,4.3,3,Explain,3.7,Inheritance,inheritance-crosses,
+414,2021,2,4.4,3,Calculate,3.7,Inheritance,,MS 0.2; MS 0.3
+415,2021,2,5.1,2,Explain,3.6,Control of blood glucose,blood-glucose-diabetes; proteins-structure-levels,
+416,2021,2,5.2,3,Explain,3.6,Control of blood glucose,blood-glucose-diabetes; blood-glucose-insulin,
+417,2021,2,5.3,3,Explain,3.6,Control of blood water potential,kidneys-nephron; blood-glucose-diabetes,
+418,2021,2,6.1,3,Explain,3.8,Most DNA is not translated,stem-cells-types,
+419,2021,2,6.2,3,Suggest,3.8,Regulation of transcription and translation,cancer-genes,
+420,2021,2,6.3,2,Name,3.8,Most DNA is not translated,cancer-evaluating,
+421,2021,2,6.4,2,Calculate,3.8,Most DNA is not translated,,MS 0.3
+422,2021,2,7.1,2,Calculate,3.7,Regulation of transcription and translation,methods-magnification,MS 0.1
+423,2021,2,7.2,1,Suggest,3.7,Regulation of transcription and translation,transport-membrane-structure,
+424,2021,2,7.3,5,Evaluate,3.7,Regulation of transcription and translation,reg-rnai,MS 1.10
+425,2021,2,8.1,4,Describe; Explain,3.8,Recombinant DNA technology,recombinant-dna-pcr,
+426,2021,2,8.2,2,Explain,3.8,Recombinant DNA technology,recombinant-dna-pcr,
+427,2021,2,9.1,3,Describe,3.7,Populations in ecosystems,populations-ecosystems-estimating,
+428,2021,2,9.2,2,Explain,3.7,Populations in ecosystems,populations-ecosystems-succession,
+429,2021,2,9.3,5,Evaluate,3.7,Populations in ecosystems,,MS 1.9
+430,2021,2,10.1,4,Suggest; Explain,3.7,Evolution may lead to speciation,speciation-reproductive-isolation; speciation-explaining,
+431,2021,2,10.2,2,Calculate,3.7,Evolution may lead to speciation,,MS 0.3; MS 0.1
+432,2021,2,10.3,4,Explain,3.5,Nutrient cycles,nutrient-cycles-fertilisers,
+433,2021,2,10.4,4,Explain,3.7,Populations in ecosystems,populations-ecosystems-estimating,
+434,2021,2,10.5,1,Suggest,3.7,Populations in ecosystems,populations-ecosystems-estimating,
+681,2021,3,1.1,2,Calculate,3.7,Populations,populations-hardy-weinberg,
+682,2021,3,1.2,1,Calculate,3.7,Populations,,MS 0.3
+683,2021,3,1.3,1,MCQ,3.7,Populations,gene-mutations-types; species-taxonomy-phylogenetic,
+684,2021,3,1.4,2,Calculate,3.7,Populations,gene-mutations-types,MS 0.3; MS 1.1
+685,2021,3,1.5,3,Suggest,3.7,Populations,gene-mutations-effects,
+686,2021,3,2.1,4,Describe,3.2,Cell recognition and the immune system,immune-hiv-structure-replication,
+687,2021,3,2.2,5,Evaluate,3.2,Cell recognition and the immune system,immune-hiv-structure-replication; stem-cells-evaluation,
+688,2021,3,3.1,2,Name; Suggest,3.6,Survival and response,survival-response-taxes-kineses,
+689,2021,3,3.2,3,Suggest,3.6,Survival and response,survival-response-taxes-kineses,
+690,2021,3,4.1,2,Explain,3.5,Energy and ecosystems,energy-ecosystems-primary-production,
+691,2021,3,4.2,2,Suggest,3.5,Nutrient cycles,nutrient-cycles-nitrogen-cycle,
+692,2021,3,4.3,2,Suggest,3.5,Energy and ecosystems,energy-ecosystems-biomass,
+693,2021,3,4.4,2,Calculate,3.5,Energy and ecosystems,,MS 2.4; MS 2.5
+694,2021,3,5.1,2,Describe,3.3,Digestion and absorption,digestion-hydrolysis,
+695,2021,3,5.2,2,Name,3.3,Digestion and absorption,proteins-structure-levels,
+696,2021,3,5.3,3,Suggest; Explain,3.3,Digestion and absorption,digestion-absorption,
+697,2021,3,6.1,4,Describe,3.8,DNA probes,dna-probes-hybridisation,
+698,2021,3,6.2,4,Suggest,3.4,DNA and protein synthesis,reg-rnai,
+699,2021,3,6.3,1,Calculate,3.5,Photosynthesis,,MS 0.3
+700,2021,3,6.4,2,Suggest,3.5,Photosynthesis,photosynthesis-light-independent,
+701,2021,3,6.5,4,Suggest; Explain,3.5,Photosynthesis,photosynthesis-light-independent; mass-transport-plants-phloem,
+702,2021,3,7.1,25,,,Essay,,
+703,2021,3,7.2,25,,,Essay,,
+73,2022,1,1.1,4,Describe,3.2,Structure of eukaryotic cells,eukaryotic-organelles,
+74,2022,1,1.2,1,Name,3.1,Carbohydrates,carbohydrates-polysaccharides,
+75,2022,1,1.3,1,Suggest,3.4,Biodiversity within a community,biodiversity-index,
+76,2022,1,1.4,2,Calculate,3.4,Biodiversity within a community,biodiversity-index,MS 2.3
+77,2022,1,2.1,3,Explain,3.2,Cell recognition and the immune system,adaptation-natural-selection,
+78,2022,1,2.2,1,Name,3.1,Carbohydrates,carbohydrates-disaccharides,
+79,2022,1,2.3,3,Describe,3.4,Genetic diversity and adaptation,adaptation-required-practical,AT i
+80,2022,1,2.4,3,Evaluate,3.4,Genetic diversity and adaptation,adaptation-interpreting-data,
+81,2022,1,3.1,1,Name,3.2,Structure of eukaryotic cells,prokaryotic-structure,
+82,2022,1,3.2,1,MCQ,3.1,General properties of proteins,proteins-structure-levels,
+83,2022,1,3.3,2,Explain,3.1,General properties of proteins,transport-membrane-structure,
+84,2022,1,3.4,2,Calculate,3.2,Transport across cell membranes,,MS 4.1; MS 1.1
+85,2022,1,3.5,2,Assess,3.2,Transport across cell membranes,transport-membrane-structure,
+86,2022,1,3.6,3,Suggest,3.2,Cell recognition and the immune system,immune-monoclonal-antibodies; methods-microscopes,
+87,2022,1,4.1,3,Describe,3.2,Cell recognition and the immune system,cell-division-viral-replication,
+88,2022,1,4.2,2,Complete,3.2,All cells arise from other cells,cell-division-mitosis; cell-division-binary-fission,
+89,2022,1,4.3,2,Complete,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-non-disjunction; genetic-diversity-meiosis,
+90,2022,1,4.4,2,Calculate,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-non-disjunction,MS 0.3
+91,2022,1,5.1,1,Define,3.1,General properties of proteins,proteins-structure-levels,
+92,2022,1,5.2,2,Explain,3.1,Many proteins are enzymes,enzymes-active-site; enzymes-induced-fit,
+93,2022,1,5.3,3,Describe,3.1,Many proteins are enzymes,enzymes-rate-factors,
+94,2022,1,5.4,3,Conclude,3.1,Many proteins are enzymes,enzymes-rate-factors,
+95,2022,1,6.1,4,Explain,3.3,Mass transport in plants,mass-transport-plants-xylem,
+96,2022,1,6.2,2,Calculate,3.3,Mass transport in plants,,MS 0.3
+97,2022,1,6.3,4,Describe,3.3,Mass transport in plants,transport-osmosis; transport-required-practical-3,
+98,2022,1,7.1,3,Complete,3.1,DNA and protein synthesis,dna-rna-dna-structure; dna-rna-rna-structure,
+99,2022,1,7.2,2,Describe,3.2,Methods of studying cells,methods-fractionation,
+100,2022,1,7.3,3,Explain,3.2,Methods of studying cells,methods-fractionation; eukaryotic-organelles,
+101,2022,1,8.1,2,Explain,3.2,Methods of studying cells,methods-microscopes,
+102,2022,1,8.2,2,Complete,3.3,Surface area to volume ratio,sa-volume-ratio,MS 1.1; MS 2.2
+103,2022,1,8.3,3,Explain,3.3,Gas exchange,gas-exchange-adaptations,
+104,2022,1,8.4,2,Complete,3.3,Mass transport in animals,mass-transport-animals-circulation,
+105,2022,1,9.1,5,Describe,3.3,Mass transport in plants,mass-transport-plants-phloem,
+106,2022,1,9.2,6,Compare,3.1,Carbohydrates,carbohydrates-polysaccharides; carbohydrates-glucose-isomers,
+107,2022,1,9.3,4,Describe,3.3,Digestion and absorption,digestion-hydrolysis,
+817,2022,1,1.5,2,Explain,3.4,Biodiversity within a community,biodiversity-farming,
+363,2022,2,1.1,2,Complete,3.5,Photosynthesis,energy-ecosystems-biomass,
+364,2022,2,1.2,6,Describe,3.5,Photosynthesis,photosynthesis-light-independent,
+365,2022,2,2.1,1,MCQ,3.5,Energy and ecosystems,energy-ecosystems-consumer-production,
+366,2022,2,2.2,1,Calculate,3.5,Energy and ecosystems,,MS 0.3
+367,2022,2,2.3,2,Calculate,3.5,Energy and ecosystems,,MS 0.3
+368,2022,2,2.4,2,Explain,3.5,Energy and ecosystems,energy-ecosystems-farming,
+369,2022,2,3.1,2,Name,3.5,Nutrient cycles,nutrient-cycles-nitrogen-cycle,
+370,2022,2,3.2,3,Evaluate,3.5,Nutrient cycles,nutrient-cycles-nitrogen-cycle,
+371,2022,2,3.3,2,Explain,3.5,Nutrient cycles,nutrient-cycles-nitrogen-cycle,
+372,2022,2,4.1,1,MCQ,3.5,Respiration,respiration-anaerobic,
+373,2022,2,4.2,3,Explain,3.5,Respiration,respiration-required-practical,
+374,2022,2,4.3,2,Name,3.5,Respiration,respiration-required-practical,
+375,2022,2,4.4,3,Describe,3.5,Respiration,respiration-required-practical,
+376,2022,2,4.5,1,Calculate,3.5,Respiration,,MS 0.1; MS 0.2
+377,2022,2,5.1,3,Conclude,3.7,Populations in ecosystems,speciation-explaining,
+378,2022,2,5.2,5,Suggest,3.7,Populations in ecosystems,speciation-reproductive-isolation; speciation-explaining,
+379,2022,2,5.3,1,Suggest,3.7,Populations in ecosystems,populations-ecosystems-estimating,
+380,2022,2,5.4,1,Calculate,3.7,Populations in ecosystems,populations-ecosystems-estimating,MS 2.2
+381,2022,2,6.1,1,Name,3.7,Inheritance,inheritance-alleles,
+382,2022,2,6.2,2,Explain,3.7,Inheritance,inheritance-crosses,
+383,2022,2,6.3,2,Calculate,3.7,Inheritance,inheritance-crosses,MS 1.4
+384,2022,2,6.4,1,Calculate,3.7,Inheritance,populations-hardy-weinberg,
+385,2022,2,6.5,2,Name,3.7,Populations,inheritance-chi-squared,
+386,2022,2,6.6,2,Suggest,3.7,Populations,populations-hardy-weinberg,
+387,2022,2,7.1,2,Name,3.6,Synaptic transmission,synapses-cholinergic,
+388,2022,2,7.2,2,Explain,3.6,Synaptic transmission,synapses-structure,
+389,2022,2,7.3,2,Explain,3.6,Synaptic transmission,synapses-cholinergic,
+390,2022,2,7.4,3,Explain,3.6,Synaptic transmission,synapses-drugs,
+391,2022,2,8.1,2,Calculate,3.6,Control of blood glucose,,MS 0.1; MS 0.2
+392,2022,2,8.2,1,Explain,3.6,Control of blood glucose,blood-glucose-diabetes,
+393,2022,2,8.3,5,Evaluate,3.6,Control of blood glucose,blood-glucose-diabetes,
+394,2022,2,8.4,2,Name,3.6,Control of blood glucose,blood-glucose-diabetes,
+395,2022,2,9.1,1,,3.6,Control of blood water potential,kidneys-osmoregulation,
+396,2022,2,9.2,2,,3.6,Control of blood water potential,kidneys-osmoregulation,
+397,2022,2,9.3,3,,3.6,Control of blood water potential,kidneys-osmoregulation,
+398,2022,2,10.1,3,,3.8,Alteration of base sequence in DNA,cancer-genes; gene-mutations-effects,
+399,2022,2,10.2,4,,3.8,Recombinant DNA technology,recombinant-dna-pcr; genetic-fingerprinting-technique,
+400,2022,2,10.3,3,,3.8,Gene expression and cancer,cancer-genes,
+401,2022,2,10.4,2,,3.8,Gene expression and cancer,cancer-evaluating,
+402,2022,2,10.5,3,,3.8,Regulation of transcription and translation,cancer-genes,
+656,2022,3,1.1,2,Name,3.1,General properties of proteins,proteins-amino-acids,
+657,2022,3,1.2,3,Complete,3.1,General,monomers-definitions; monomers-reactions; proteins-peptide-bonds,
+658,2022,3,1.3,2,Calculate,3.1,General properties of proteins,proteins-structure-levels,MS 0.3
+659,2022,3,1.4,1,Draw,3.3,Mass transport in animals,mass-transport-animals-dissociation,
+660,2022,3,1.5,2,Suggest,3.3,Mass transport in animals,mass-transport-animals-dissociation,
+661,2022,3,2.1,2,Name,3.6,Receptors,receptors-pacinian,
+662,2022,3,2.2,1,MCQ,3.6,Receptors,,MS 1.11
+663,2022,3,2.3,1,Suggest,3.6,Receptors,nerve-impulses-speed,
+664,2022,3,2.4,2,Calculate,3.6,Receptors,nerve-impulses-speed,MS 0.1
+665,2022,3,2.5,3,Suggest,3.6,Receptors,nerve-impulses-speed; synapses-structure,
+666,2022,3,3.1,2,Suggest,3.2,All cells arise from other cells,cell-division-required-practical,
+667,2022,3,3.2,2,Explain,3.2,All cells arise from other cells,cell-division-required-practical,
+668,2022,3,3.3,2,Explain,3.2,All cells arise from other cells,cell-division-mitosis,
+669,2022,3,3.4,1,Calculate,3.2,All cells arise from other cells,cell-division-required-practical,MS 0.3
+670,2022,3,3.5,2,Suggest,3.2,All cells arise from other cells,cell-division-required-practical,
+671,2022,3,4.1,2,Define,3.4,DNA and protein synthesis,protein-synthesis-genome-proteome,
+672,2022,3,4.2,2,Name,3.8,Recombinant DNA technology,recombinant-dna-principles,
+673,2022,3,4.3,1,Suggest,3.8,Recombinant DNA technology,recombinant-dna-principles,
+674,2022,3,4.4,2,Name,3.8,Recombinant DNA technology,recombinant-dna-in-vivo,
+675,2022,3,4.5,1,Explain,3.8,Recombinant DNA technology,recombinant-dna-in-vivo,
+676,2022,3,4.6,2,Suggest,3.8,Recombinant DNA technology,recombinant-dna-in-vivo,
+677,2022,3,5.5,2,Suggest,3.5,Photosynthesis,photosynthesis-limiting-factors,
+678,2022,3,5.6,2,Evaluate,3.4,Species and taxonomy,species-taxonomy-phylogenetic,
+679,2022,3,6.1,25,,,Essay,,
+680,2022,3,6.2,25,,,Essay,,
+819,2022,3,5.1,3,Calculate,3.5,Photosynthesis,,MS 0.2; MS 0.1
+820,2022,3,5.2,2,Explain,3.5,Photosynthesis,,MS 1.9
+821,2022,3,5.3,4,Suggest,3.5,Photosynthesis,photosynthesis-light-dependent; photosynthesis-light-independent,
+822,2022,3,5.4,2,Calculate,3.5,Energy and ecosystems,energy-ecosystems-primary-production,MS 2.3
+35,2023,1,1.1,2,Describe,3.2,Prokaryotic cells and viruses,prokaryotic-viruses,
+36,2023,1,1.2,2,Explain,3.2,Prokaryotic cells and viruses,prokaryotic-viruses,
+37,2023,1,1.3,1,Name,3.2,Cell recognition and the immune system,immune-hiv-aids-antibiotics,
+38,2023,1,2.1,3,Describe,3.1,Carbohydrates,carbohydrates-polysaccharides; carbohydrates-glucose-isomers,
+39,2023,1,2.2,2,Explain,3.3,Gas exchange,gas-exchange-adaptations,
+40,2023,1,2.3,3,Explain,3.3,Mass transport in plants,mass-transport-plants-xylem,
+41,2023,1,3.1,1,Name,3.2,Structure of eukaryotic cells,eukaryotic-organelles,
+42,2023,1,3.2,2,Describe,3.2,Structure of eukaryotic cells,eukaryotic-organelles,
+43,2023,1,3.3,1,MCQ,3.4,Genetic diversity and adaptation,species-taxonomy-phylogenetic,
+44,2023,1,3.4,1,Calculate,3.4,Genetic diversity and adaptation,,MS 0.3
+45,2023,1,3.5,4,Explain,3.4,Genetic diversity and adaptation,adaptation-natural-selection,
+46,2023,1,4.1,3,Explain,3.3,Digestion and absorption,digestion-absorption; transport-osmosis,
+47,2023,1,4.2,3,Explain,3.2,Cell recognition and the immune system,immune-active-passive; immune-antibodies,
+48,2023,1,4.3,3,Describe,3.3,Digestion and absorption,digestion-hydrolysis,
+49,2023,1,5.1,3,Describe,3.4,Genetic diversity and adaptation,adaptation-required-practical,AT i
+50,2023,1,5.2,2,Calculate,3.4,Genetic diversity and adaptation,,MS 2.2; MS 4.1
+51,2023,1,5.3,2,Suggest,3.4,Genetic diversity and adaptation,adaptation-required-practical,
+52,2023,1,5.4,1,Complete,3.4,Genetic diversity and adaptation,,MS 1.2; MS 1.6
+53,2023,1,5.5,2,Explain,3.4,Genetic diversity and adaptation,investigating-diversity-ms-1-10,MS 1.10
+54,2023,1,6.1,2,Define,3.4,DNA and protein synthesis,protein-synthesis-genome-proteome,
+55,2023,1,6.2,3,Evaluate,3.4,DNA and protein synthesis,species-taxonomy-immunology-genome; methods-microscopes,
+56,2023,1,6.3,1,Suggest,3.4,Species and taxonomy,species-taxonomy-immunology-genome,
+57,2023,1,6.4,2,Calculate,3.2,Methods of studying cells,methods-magnification,MS 2.2; MS 0.1
+58,2023,1,7.1,3,Conclude,3.3,Mass transport in animals,mass-transport-animals-dissociation,
+59,2023,1,7.2,3,Evaluate,3.3,Mass transport in animals,mass-transport-animals-dissociation,
+60,2023,1,8.1,2,Explain,3.2,All cells arise from other cells,cell-division-mitosis; cell-division-cancer,
+61,2023,1,8.2,3,Suggest,3.2,All cells arise from other cells,enzymes-rate-factors,
+62,2023,1,8.3,3,Explain,3.2,All cells arise from other cells,cell-division-cancer,MS 2.5
+63,2023,1,8.4,2,Calculate,3.2,All cells arise from other cells,,MS 2.5; MS 0.3
+64,2023,1,9.1,2,Suggest,3.2,Cell recognition and the immune system,immune-elisa,
+65,2023,1,9.2,1,Suggest,3.2,Cell recognition and the immune system,immune-elisa,
+66,2023,1,9.3,2,Suggest,3.2,Cell recognition and the immune system,immune-monoclonal-antibodies,
+67,2023,1,9.4,1,Evaluate,3.2,Cell recognition and the immune system,immune-ethics,
+68,2023,1,9.5,3,Discuss,3.2,Cell recognition and the immune system,immune-elisa; immune-ethics,
+69,2023,1,9.6,2,Explain,3.3,Mass transport in animals,mass-transport-animals-tissue-fluid,
+70,2023,1,10.1,5,Describe,3.1,General properties of proteins,proteins-peptide-bonds; proteins-structure-levels,
+71,2023,1,10.2,6,Describe,3.4,"DNA, genes and chromosomes",dna-rna-dna-structure; dna-genes-chromosomes-structure,
+72,2023,1,10.3,4,Describe; Explain,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-variation; genetic-diversity-meiosis,
+328,2023,2,1.1,4,Describe,3.5,Photosynthesis,photosynthesis-required-practical-7,AT g
+329,2023,2,1.2,2,Explain,3.5,Photosynthesis,photosynthesis-required-practical-7,
+330,2023,2,2.1,5,Explain,3.6,Synaptic transmission,synapses-cholinergic; synapses-drugs,
+331,2023,2,2.2,2,Suggest,3.6,Synaptic transmission,synapses-drugs,
+332,2023,2,2.3,2,Calculate,3.6,Synaptic transmission,,MS 0.1; MS 0.2
+333,2023,2,2.4,2,Suggest,3.6,Synaptic transmission,synapses-drugs,
+334,2023,2,3.1,2,Calculate,3.5,Nutrient cycles,nutrient-cycles-microorganisms,MS 0.2; MS 0.3
+335,2023,2,3.2,5,Evaluate,3.5,Nutrient cycles,nutrient-cycles-microorganisms,MS 1.10
+336,2023,2,3.3,2,Suggest,3.5,Nutrient cycles,nutrient-cycles-microorganisms,
+337,2023,2,3.4,2,Suggest,3.5,Nutrient cycles,nutrient-cycles-fertilisers,
+338,2023,2,4.1,1,Name,3.7,Inheritance,inheritance-crosses,
+339,2023,2,4.2,1,Name,3.7,Inheritance,inheritance-crosses,
+340,2023,2,4.3,3,Complete,3.7,Inheritance,inheritance-crosses,
+341,2023,2,4.4,2,Calculate,3.7,Inheritance,populations-hardy-weinberg,
+342,2023,2,5.1,3,Explain,3.6,Receptors,receptors-retina,
+343,2023,2,5.2,1,MCQ,3.6,Receptors,receptors-retina,
+344,2023,2,5.3,5,Explain,3.7,Evolution may lead to speciation,speciation-reproductive-isolation; speciation-explaining,
+345,2023,2,6.1,3,Describe; Explain,3.6,Control of blood water potential,kidneys-nephron,
+346,2023,2,6.2,1,Name,3.6,Control of blood water potential,kidneys-osmoregulation,
+347,2023,2,6.3,2,Explain,3.6,Control of blood water potential,kidneys-osmoregulation,
+348,2023,2,6.4,3,Explain,3.6,Control of blood water potential,kidneys-osmoregulation; heart-rate-control,
+349,2023,2,7.1,2,Complete,3.7,Populations in ecosystems,populations-ecosystems-carrying-capacity; populations-ecosystems-communities,
+350,2023,2,7.2,2,Suggest,3.7,Populations in ecosystems,populations-ecosystems-conservation,
+351,2023,2,7.3,3,Name,3.5,Energy and ecosystems,energy-ecosystems-consumer-production,
+352,2023,2,8.1,3,Explain,3.7,Alteration of base sequence in DNA,cancer-genes; gene-mutations-effects,
+353,2023,2,8.2,5,Conclude,3.7,Alteration of base sequence in DNA,cancer-evaluating,
+354,2023,2,9.1,2,Describe,3.8,Recombinant DNA technology,recombinant-dna-fragments,
+355,2023,2,9.2,2,Explain,3.8,Recombinant DNA technology,recombinant-dna-pcr,
+356,2023,2,9.3,2,Calculate,3.8,Recombinant DNA technology,recombinant-dna-pcr,MS 0.2
+357,2023,2,9.4,2,Name,3.8,Genetic fingerprinting,genetic-fingerprinting-technique,
+358,2023,2,10.1,2,Describe,3.6,Skeletal muscles,muscles-contraction,
+359,2023,2,10.2,1,Calculate,3.6,Skeletal muscles,,MS 0.1; MS 0.2
+360,2023,2,10.3,5,Describe; Explain,3.6,Skeletal muscles,muscles-atp-phosphocreatine; muscles-fibre-types; blood-glucose-liver,
+361,2023,2,10.4,3,Explain,3.6,Control of blood glucose,transport-facilitated-diffusion; respiration-other-substrates,
+362,2023,2,10.5,4,Describe; Explain,3.6,Control of heart rate,heart-rate-control,
+629,2023,3,1.1,3,Describe,3.6,Receptors,receptors-pacinian,
+630,2023,3,1.2,2,Describe,3.6,Receptors,nerve-impulses-action-potential,
+631,2023,3,1.3,1,Name,3.6,Receptors,nerve-impulses-refractory-period,
+632,2023,3,2.1,1,Suggest,3.5,Respiration,respiration-required-practical,
+633,2023,3,2.2,2,Calculate,3.5,Respiration,respiration-required-practical,MS 0.2; MS 1.1
+634,2023,3,2.3,2,Suggest,3.5,Respiration,carbohydrates-disaccharides,
+635,2023,3,2.4,2,Suggest,3.5,Respiration,respiration-required-practical,
+636,2023,3,2.5,2,Complete,3.5,Respiration,respiration-link-krebs,
+637,2023,3,3.1,1,MCQ,3.2,Prokaryotic cells and viruses,prokaryotic-structure,
+638,2023,3,3.2,2,Calculate,3.4,Genetic diversity and adaptation,,MS 0.2; MS 1.2
+639,2023,3,3.3,1,Calculate,3.4,Genetic diversity and adaptation,adaptation-ms-2-5,MS 2.5
+640,2023,3,3.4,2,Suggest,3.4,Genetic diversity and adaptation,adaptation-natural-selection; adaptation-required-practical,
+641,2023,3,4.1,2,Suggest,3.2,Structure of eukaryotic cells,eukaryotic-organelles,
+642,2023,3,4.2,4,Suggest,3.6,Control of heart rate,stem-cells-types; stem-cells-evaluation,
+643,2023,3,4.3,2,Calculate,3.6,Control of heart rate,,MS 0.3
+644,2023,3,4.4,2,Suggest,3.6,Control of heart rate,heart-rate-myogenic; muscles-contraction,
+645,2023,3,5.1,1,Calculate,3.4,Biodiversity within a community,biodiversity-index,MS 2.3
+646,2023,3,5.2,2,Describe; Explain,3.4,Biodiversity within a community,biodiversity-index; biodiversity-species-richness,
+647,2023,3,5.3,4,Suggest,3.4,Biodiversity within a community,biodiversity-index; biodiversity-species-richness,
+648,2023,3,6.1,2,Name,3.2,Cell recognition and the immune system,immune-antigens,
+649,2023,3,6.2,1,Suggest,3.2,Cell recognition and the immune system,immune-cellular-response; immune-humoral-response,
+650,2023,3,6.3,3,Draw,3.2,Cell recognition and the immune system,,MS 1.3; MS 1.10
+651,2023,3,6.4,3,Conclude,3.2,Cell recognition and the immune system,immune-cellular-response; immune-humoral-response,MS 1.10
+652,2023,3,6.5,4,Evaluate,3.2,Cell recognition and the immune system,immune-cellular-response; immune-humoral-response,
+653,2023,3,6.6,2,Explain,3.7,Populations,populations-hardy-weinberg,
+654,2023,3,7.1,25,,,Essay,,
+655,2023,3,7.2,25,,,Essay,,
+1,2024,1,1.1,3,Name,3.1,Lipids,lipids-triglycerides,
+2,2024,1,1.2,1,Name,3.1,Lipids,lipids-fatty-acids,
+3,2024,1,1.3,1,Describe,3.1,Lipids,lipids-fatty-acids; lipids-properties,
+4,2024,1,1.4,3,Suggest,3.1,Lipids,transport-membrane-structure; lipids-properties; immune-phagocytosis,
+5,2024,1,2.1,3,Describe,3.2,Transport across cell membranes,transport-facilitated-diffusion; transport-active-transport,
+6,2024,1,2.2,1,Describe,3.3,Digestion and absorption,digestion-absorption,
+7,2024,1,2.3,3,Describe,3.3,Digestion and absorption,digestion-absorption,
+8,2024,1,3.1,3,Describe,3.3,Gas exchange,gas-exchange-ventilation,
+9,2024,1,3.2,2,Explain,3.3,Gas exchange,methods-microscopes,
+10,2024,1,3.3,1,Name,3.3,Gas exchange,gas-exchange-human-system,
+11,2024,1,3.4,2,Maths skills,3.3,Gas exchange,methods-magnification,MS 1.2; MS 2.2; MS 0.1
+12,2024,1,3.5,2,Calculate,3.3,Gas exchange,,MS 1.11
+13,2024,1,4.1,1,Name,3.1,Carbohydrates,carbohydrates-monosaccharides,
+14,2024,1,4.2,3,Describe; Explain,3.1,Carbohydrates,carbohydrates-tests,
+15,2024,1,4.3,1,Calculate,3.1,Carbohydrates,,MS 0.3
+16,2024,1,4.4,3,Explain,3.2,Transport across cell membranes,transport-osmosis,
+17,2024,1,4.5,2,Suggest,3.2,Transport across cell membranes,transport-osmosis,MS 0.3
+18,2024,1,5.1,4,Describe,3.2,All cells arise from other cells,cell-division-mitosis,
+19,2024,1,6.1,3,Describe,3.4,DNA and protein synthesis,protein-synthesis-rna-structure,
+20,2024,1,6.2,1,Name,3.4,DNA and protein synthesis,protein-synthesis-genetic-code-data,
+21,2024,1,6.3,4,Explain,3.4,DNA and protein synthesis,genetic-diversity-gene-mutations; protein-synthesis-genetic-code-data; proteins-structure-levels,
+22,2024,1,7.1,3,Design,3.1,Many proteins are enzymes,enzymes-required-practical,MS 1.2
+23,2024,1,7.2,2,Suggest,3.1,Many proteins are enzymes,enzymes-rate-factors; enzymes-active-site,
+24,2024,1,7.3,3,Explain,3.1,Many proteins are enzymes,enzymes-rate-factors,
+25,2024,1,7.4,1,MCQ,3.1,Many proteins are enzymes,enzymes-required-practical,
+26,2024,1,8.1,2,Explain,3.3,Mass transport in animals,mass-transport-animals-vessels,
+27,2024,1,8.2,3,Conclude,3.3,Mass transport in animals,mass-transport-animals-data,
+28,2024,1,8.3,3,Maths skills,3.3,Mass transport in animals,mass-transport-animals-data,MS 2.3; MS 0.3
+29,2024,1,9.1,1,Calculate,3.4,Species and taxonomy,,MS 0.3
+30,2024,1,9.2,1,Suggest,3.4,Species and taxonomy,species-taxonomy-courtship,
+31,2024,1,9.3,4,Explain,3.4,Species and taxonomy,species-taxonomy-courtship,
+32,2024,1,10.1,6,Describe; Explain,3.2,Methods of studying cells,methods-fractionation,
+33,2024,1,10.2,5,Describe,3.2,Structure of eukaryotic cells,eukaryotic-organelles,
+34,2024,1,10.3,4,Describe,3.1,ATP,atp-structure; atp-hydrolysis; atp-synthesis,
+814,2024,1,5.2,1,Complete,3.2,All cells arise from other cells,cell-division-required-practical,
+815,2024,1,5.3,2,Conclude,3.2,All cells arise from other cells,cell-division-required-practical,MS 1.9
+816,2024,1,5.4,3,Conclude,3.2,All cells arise from other cells,cell-division-cell-cycle; cell-division-mitosis,
+293,2024,2,1.1,2,Name,3.6,Synaptic transmission,synapses-structure,
+294,2024,2,1.2,4,Describe,3.6,Synaptic transmission,synapses-comparison; synapses-cholinergic; muscles-contraction,
+295,2024,2,1.3,2,Explain,3.6,Synaptic transmission,synapses-cholinergic; nerve-impulses-resting-potential,
+296,2024,2,2.1,2,Calculate,3.6,Skeletal muscles,muscles-structure,MS 0.2; MS 0.3
+297,2024,2,2.2,1,MCQ,3.6,Skeletal muscles,muscles-contraction,
+298,2024,2,2.3,4,Explain,3.6,Skeletal muscles,muscles-fibre-types,
+299,2024,2,3.1,2,Conclude,3.5,Photosynthesis,photosynthesis-light-dependent,
+300,2024,2,3.2,2,Name,3.5,Photosynthesis,photosynthesis-limiting-factors,
+301,2024,2,3.3,3,Describe,3.5,Photosynthesis,photosynthesis-light-independent,
+302,2024,2,4.1,2,Explain,3.7,Inheritance,inheritance-crosses,
+303,2024,2,4.2,1,Explain,3.7,Inheritance,inheritance-crosses,
+304,2024,2,4.3,2,Calculate,3.7,Populations,populations-hardy-weinberg,
+305,2024,2,4.4,3,Complete,3.7,Inheritance,inheritance-crosses,
+306,2024,2,5.1,5,Describe,3.7,Populations in ecosystems,populations-ecosystems-estimating,
+307,2024,2,5.2,3,Explain,3.7,Populations in ecosystems,populations-ecosystems-carrying-capacity,
+308,2024,2,5.3,2,Calculate,3.7,Populations in ecosystems,,MS 0.3; MS 0.1
+309,2024,2,6.1,5,Describe,3.6,Control of heart rate,heart-rate-myogenic,
+310,2024,2,6.2,3,Conclude,3.6,Control of heart rate,,MS 1.9
+311,2024,2,7.1,2,Complete,3.8,Genetic fingerprinting,recombinant-dna-fragments; genetic-fingerprinting-technique,
+312,2024,2,7.2,2,Suggest,3.8,Genetic fingerprinting,genetic-fingerprinting-technique,
+313,2024,2,7.3,1,Name,3.8,Genetic fingerprinting,recombinant-dna-fragments,
+314,2024,2,7.4,2,Describe,3.8,Recombinant DNA technology,recombinant-dna-in-vivo,
+315,2024,2,8.1,2,Explain,3.6,Survival and response,survival-response-growth-factors,
+316,2024,2,8.2,2,Calculate,3.6,Survival and response,,MS 0.3; MS 1.1
+317,2024,2,8.3,1,Describe,3.6,Survival and response,,AT c; MS 0.3
+318,2024,2,8.4,5,Describe,3.6,Survival and response,survival-response-at-h,
+319,2024,2,9.1,2,Suggest,3.6,Control of blood glucose,blood-glucose-diabetes,
+320,2024,2,9.2,3,Explain,3.6,Control of blood glucose,blood-glucose-diabetes,
+321,2024,2,9.3,2,Calculate,3.6,Control of blood glucose,,MS 0.3
+322,2024,2,9.4,4,Evaluate,3.6,Control of blood glucose,blood-glucose-diabetes,
+323,2024,2,10.1,2,Suggest,3.7,Evolution may lead to speciation,speciation-variation,
+324,2024,2,10.2,2,Explain,3.7,Evolution may lead to speciation,speciation-natural-selection,
+325,2024,2,10.3,5,Evaluate,3.7,Evolution may lead to speciation,speciation-explaining; speciation-selection-types,
+326,2024,2,10.4,3,Explain,3.8,Recombinant DNA technology,genetic-fingerprinting-technique; genome-projects-sequencing,
+327,2024,2,10.5,3,Explain,3.7,Populations in ecosystems,populations-ecosystems-estimating,
+603,2024,3,1.1,3,Complete,3.2,Cell recognition and the immune system,immune-antigens; immune-antibodies; immune-vaccination; immune-active-passive,
+604,2024,3,1.2,1,Suggest,3.2,Cell recognition and the immune system,immune-hiv-structure-replication; immune-vaccination,
+605,2024,3,1.3,2,Explain,3.2,Cell recognition and the immune system,immune-hiv-aids-antibiotics,
+606,2024,3,2.1,1,Suggest,3.5,Respiration,respiration-required-practical,
+607,2024,3,2.2,2,Describe,3.5,Respiration,respiration-required-practical,
+608,2024,3,2.3,2,Suggest,3.5,Respiration,respiration-required-practical,
+609,2024,3,2.4,3,Calculate,3.5,Respiration,respiration-required-practical,MS 2.3; MS 4.1
+610,2024,3,3.1,3,Describe; Explain,3.3,Surface area to volume ratio,sa-volume-metabolic-rate,
+611,2024,3,3.2,3,Calculate,3.3,Surface area to volume ratio,sa-volume-ms-4-1,MS 2.3; MS 1.1
+612,2024,3,3.3,1,MCQ,3.3,Surface area to volume ratio,sa-volume-ratio,
+613,2024,3,3.4,1,Name,3.3,Gas exchange,gas-exchange-adaptations,
+614,2024,3,4.1,1,Describe,3.6,Skeletal muscles,,MS 1.6
+615,2024,3,4.2,5,Evaluate,3.6,Skeletal muscles,,MS 1.6
+616,2024,3,5.1,2,Explain,3.8,Alteration of base sequence in DNA,gene-mutations-types; gene-mutations-effects,
+617,2024,3,5.2,3,Calculate,3.7,Evolution may lead to speciation,,MS 0.3
+618,2024,3,5.3,2,Suggest,3.7,Evolution may lead to speciation,speciation-genetic-drift; populations-definition,
+619,2024,3,5.4,3,Evaluate,3.8,DNA probes,dna-probes-screening,
+620,2024,3,6.1,2,Define,3.7,Populations,populations-definition,
+621,2024,3,6.2,1,MCQ,3.4,Biodiversity within a community,biodiversity-species-richness,
+622,2024,3,6.3,4,Evaluate,3.4,Biodiversity within a community,populations-ecosystems-conservation; biodiversity-species-richness,
+623,2024,3,6.4,1,Explain,3.4,Biodiversity within a community,,MS 3.1
+624,2024,3,6.5,2,Suggest,3.7,Populations in ecosystems,populations-ecosystems-succession,
+625,2024,3,6.6,2,Name,3.7,Populations in ecosystems,populations-ecosystems-succession,
+626,2024,3,6.7,3,Suggest,3.7,Populations in ecosystems,,MS 1.10
+627,2024,3,7.1,25,,,Essay,,
+628,2024,3,7.2,25,,,Essay,,
+823,2025,1,1.1,4,Explain,3.3,Digestion and absorption,digestion-hydrolysis; digestion-absorption,
+824,2025,1,1.2,2,Describe; Explain,3.2,Transport across cell membranes,transport-membrane-structure; lipids-phospholipids,
+825,2025,1,2.1,1,Describe,3.4,DNA and protein synthesis,protein-synthesis-transcription; dna-genes-chromosomes-introns-exons,
+826,2025,1,2.2,2,Describe,3.4,DNA and protein synthesis,protein-synthesis-transcription; dna-rna-phosphodiester,
+827,2025,1,2.3,1,MCQ,3.1,Many proteins are enzymes,enzymes-activation-energy,
+828,2025,1,2.4,4,Describe,3.1,Many proteins are enzymes,enzymes-induced-fit; enzymes-activation-energy,
+829,2025,1,3.1,3,Complete table,3.1,Carbohydrates,carbohydrates-disaccharides; carbohydrates-polysaccharides; dna-rna-nucleotides; monomers-reactions,
+830,2025,1,3.2,1,Calculate,3.1,Many proteins are enzymes,,MS 0.3
+831,2025,1,3.3,4,Explain,3.1,Many proteins are enzymes,enzymes-rate-factors; enzymes-active-site,
+832,2025,1,3.4,2,Suggest,3.1,Many proteins are enzymes,enzymes-rate-factors,
+833,2025,1,4.1,2,Name,3.2,Prokaryotic cells and viruses,prokaryotic-structure,
+834,2025,1,4.2,4,Justify,3.2,Methods of studying cells,methods-microscopes; methods-magnification,
+835,2025,1,5.1,4,Explain,3.2,Transport across cell membranes,transport-co-transport; transport-active-transport; transport-osmosis; atp-hydrolysis,
+836,2025,1,5.2,3,Explain,3.2,Transport across cell membranes,atp-synthesis; atp-hydrolysis; transport-active-transport,
+837,2025,1,5.3,2,Explain,3.2,Transport across cell membranes,transport-adaptations,
+838,2025,1,6.1,2,Explain,3.3,Mass transport in animals,mass-transport-animals-dissociation; mass-transport-animals-adaptation,
+839,2025,1,6.2,3,Describe,3.3,Mass transport in animals,carbohydrates-at-c,AT b
+840,2025,1,6.3,2,Calculate,3.3,Mass transport in animals,,MS 3.1; MS 0.1
+841,2025,1,6.4,3,Suggest,3.3,Mass transport in animals,,MS 1.5
+842,2025,1,7.1,2,Calculate,3.4,Genetic diversity from mutation or meiosis,cell-division-mitosis; genetic-diversity-meiosis,MS 0.2; MS 0.5
+843,2025,1,7.2,3,Draw,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-meiosis; cell-division-cell-cycle,MS 1.3
+844,2025,1,7.3,1,Draw,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-meiosis,
+845,2025,1,7.4,3,Explain,3.4,Genetic diversity from mutation or meiosis,genetic-diversity-non-disjunction,
+846,2025,1,8.1,3,Explain,3.4,Genetic diversity and adaptation,adaptation-natural-selection,
+847,2025,1,8.2,2,Calculate,3.2,Prokaryotic cells and viruses,,MS 2.3; MS 1.9
+848,2025,1,8.3,1,Conclude,3.2,Prokaryotic cells and viruses,,MS 1.9
+849,2025,1,8.4,2,Calculate,3.2,Prokaryotic cells and viruses,,MS 0.3
+850,2025,1,8.5,3,Conclude,3.2,All cells arise from other cells,cell-division-binary-fission,MS 3.1
+851,2025,1,9.1,1,Name,3.2,Structure of eukaryotic cells,eukaryotic-specialisation,
+852,2025,1,9.2,1,Name,3.2,Structure of eukaryotic cells,eukaryotic-organelles,
+853,2025,1,9.3,2,Justify,3.2,Structure of eukaryotic cells,eukaryotic-organelles,
+854,2025,1,9.4,3,Describe; Explain,3.2,Structure of eukaryotic cells,eukaryotic-organelles,MS 0.3
+855,2025,1,10.1,6,Describe,3.4,DNA and protein synthesis,protein-synthesis-translation,
+856,2025,1,10.2,4,Describe; Explain,3.3,Gas exchange,gas-exchange-adaptations,
+857,2025,1,10.3,5,Describe,3.3,Mass transport in animals,mass-transport-animals-circulation; mass-transport-animals-cardiac-cycle,
+858,2025,2,1.1,2,Complete,3.5,Respiration,respiration-glycolysis,
+859,2025,2,1.2,2,Explain,3.5,Respiration,respiration-link-krebs,
+860,2025,2,1.3,3,Explain,3.5,Respiration,respiration-oxidative-phosphorylation; respiration-anaerobic,
+861,2025,2,2.1,1,Name,3.6,Homeostasis and negative feedback,homeostasis-principles,
+862,2025,2,2.2,2,Explain,3.6,Homeostasis and negative feedback,homeostasis-principles,
+863,2025,2,2.3,1,MCQ,3.6,Control of blood glucose,blood-glucose-glucagon; blood-glucose-second-messenger,
+864,2025,2,2.4,2,Describe,3.6,Homeostasis and negative feedback,homeostasis-negative-feedback,
+865,2025,2,2.5,2,Describe; Explain,3.6,Homeostasis and negative feedback,homeostasis-principles; homeostasis-negative-feedback,
+866,2025,2,3.1,2,Describe,3.5,Energy and ecosystems,energy-ecosystems-biomass; energy-ecosystems-at-a,
+867,2025,2,3.2,2,Calculate,3.5,Energy and ecosystems,energy-ecosystems-at-a,MS 0.1
+868,2025,2,3.3,2,Explain,3.5,Energy and ecosystems,energy-ecosystems-primary-production,
+869,2025,2,4.1,4,Explain,3.8,Alteration of base sequence in DNA,gene-mutations-types; gene-mutations-effects,
+870,2025,2,4.2,5,Evaluate,3.8,Recombinant DNA technology,recombinant-dna-issues,MS 1.10
+871,2025,2,4.3,1,Calculate,3.7,Inheritance,inheritance-crosses; inheritance-ms-1-4,MS 1.4
+872,2025,2,5.1,2,Explain,3.7,Inheritance,inheritance-genotype-phenotype,
+873,2025,2,5.2,2,Suggest,3.7,Inheritance,inheritance-crosses,
+874,2025,2,5.3,3,Explain,3.7,Inheritance,inheritance-crosses,
+875,2025,2,6.1,2,Name,3.6,Nerve impulses,nerve-impulses-neurone-structure,
+876,2025,2,6.2,3,Explain,3.6,Nerve impulses,nerve-impulses-speed; survival-response-reflex,
+877,2025,2,6.3,3,Explain,3.6,Control of heart rate,heart-rate-control; synapses-drugs,
+878,2025,2,6.4,2,Calculate,3.6,Control of heart rate,,MS 2.3; MS 1.1
+879,2025,2,7.1,3,Suggest,3.6,Survival and response,survival-response-required-practical; survival-response-taxes-kineses,
+880,2025,2,7.2,2,Name,3.6,Survival and response,survival-response-taxes-kineses,
+881,2025,2,7.3,2,Explain,3.6,Survival and response,inheritance-chi-squared; survival-response-required-practical,MS 1.9
+882,2025,2,7.4,4,Conclude,3.6,Survival and response,inheritance-chi-squared,MS 1.9
+883,2025,2,8.1,2,Calculate,3.8,Alteration of base sequence in DNA,,MS 0.2; MS 0.3
+884,2025,2,8.2,2,Explain,3.8,Using genome projects,genome-projects-complexity,
+885,2025,2,8.3,2,Explain,3.8,Using genome projects,genome-projects-sequencing,
+886,2025,2,8.4,4,Evaluate,3.8,Gene expression and cancer,cancer-evaluating; genetic-fingerprinting-vntrs,MS 0.3
+887,2025,2,9.1,2,Calculate,3.7,Inheritance,,MS 0.2; MS 0.3
+888,2025,2,9.2,2,Define,3.8,DNA probes,dna-probes-hybridisation,
+889,2025,2,9.3,3,Complete table,3.8,DNA probes,dna-probes-screening; dna-probes-hybridisation,
+890,2025,2,10.1,3,Explain,3.7,Populations in ecosystems,populations-ecosystems-communities,
+891,2025,2,10.2,2,Explain,3.5,Nutrient cycles,nutrient-cycles-microorganisms,
+892,2025,2,10.3,4,Describe,3.5,Nutrient cycles,nutrient-cycles-nitrogen-cycle; nutrient-cycles-microorganisms,
+893,2025,2,10.4,4,Describe,3.7,Populations in ecosystems,populations-ecosystems-succession,
+894,2025,2,10.5,2,Suggest,3.7,Populations in ecosystems,populations-ecosystems-conservation,
+895,2025,3,1.1,3,Describe,3.2,All cells arise from other cells,cell-division-binary-fission,
+896,2025,3,1.2,2,Calculate,3.7,Populations in ecosystems,populations-ecosystems-ms-2-5,MS 2.5; MS 0.3
+897,2025,3,1.3,3,Explain,3.5,Respiration,respiration-oxidative-phosphorylation; atp-synthesis,
+898,2025,3,2.1,2,Complete table,3.6,Control of blood water potential,kidneys-nephron; kidneys-osmoregulation,
+899,2025,3,2.2,2,Explain,3.6,Control of blood water potential,kidneys-nephron,
+900,2025,3,2.3,5,Evaluate,3.6,Control of blood water potential,kidneys-nephron,MS 1.9
+901,2025,3,3.1,1,Name,3.4,Species and taxonomy,species-taxonomy-hierarchy,
+902,2025,3,3.2,3,Suggest,3.7,Populations in ecosystems,populations-ecosystems-estimating,
+903,2025,3,3.3,2,Calculate,3.7,Populations in ecosystems,populations-ecosystems-estimating,MS 2.3
+904,2025,3,3.4,2,Suggest,3.7,Populations in ecosystems,populations-ecosystems-estimating,
+905,2025,3,4.1,1,Draw,3.1,General properties of proteins,proteins-amino-acids,
+906,2025,3,4.2,1,MCQ,3.1,General properties of proteins,proteins-structure-levels,
+907,2025,3,4.3,2,Calculate,3.2,Cell recognition and the immune system,immune-humoral-response,MS 0.1; MS 0.2
+908,2025,3,4.4,3,Suggest,3.2,Cell recognition and the immune system,immune-humoral-response; immune-cellular-response,
+909,2025,3,5.1,2,Suggest,3.7,Populations,populations-hardy-weinberg,
+910,2025,3,5.2,1,Describe,3.8,Regulation of transcription and translation,reg-epigenetics,
+911,2025,3,5.3,3,Suggest,3.8,Regulation of transcription and translation,reg-epigenetics; reg-interpreting-data,
+912,2025,3,6.1,2,Suggest,3.3,Gas exchange,gas-exchange-at-j,AT e
+913,2025,3,6.2,2,Describe,3.3,Gas exchange,gas-exchange-ventilation,
+914,2025,3,6.3,2,Calculate,3.3,Gas exchange,gas-exchange-at-b,MS 2.3; MS 0.1
+915,2025,3,6.4,2,Suggest,3.3,Gas exchange,gas-exchange-lung-disease,
+916,2025,3,6.5,2,Suggest,3.3,Gas exchange,gas-exchange-lung-disease,
+917,2025,3,6.6,1,Suggest,3.3,Gas exchange,gas-exchange-lung-disease,
+918,2025,3,6.7,4,Evaluate,3.3,Gas exchange,gas-exchange-lung-disease,
+919,2025,3,7.1,25,,,Essay,,
+920,2025,3,7.2,25,,,Essay,,

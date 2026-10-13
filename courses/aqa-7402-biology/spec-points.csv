@@ -1,0 +1,268 @@
+unit,unit_name,spec_ref,topic,spec_point_id,spec_point
+1,Biological Molecules,3.1.1,Monomers and Polymers,monomers-definitions,Monomers & Polymers Definitions
+1,Biological Molecules,3.1.1,Monomers and Polymers,monomers-reactions,Biological Reactions
+1,Biological Molecules,3.1.2,Carbohydrates,carbohydrates-monosaccharides,Monosaccharides
+1,Biological Molecules,3.1.2,Carbohydrates,carbohydrates-disaccharides,Disaccharides & Glycosidic Bonds
+1,Biological Molecules,3.1.2,Carbohydrates,carbohydrates-glucose-isomers,Glucose Isomers: α and β
+1,Biological Molecules,3.1.2,Carbohydrates,carbohydrates-polysaccharides,Polysaccharides: Structure & Function
+1,Biological Molecules,3.1.2,Carbohydrates,carbohydrates-tests,Biochemical Tests for Carbohydrates
+1,Biological Molecules,3.1.2,Carbohydrates,carbohydrates-at-g,Chromatography of Monosaccharides
+1,Biological Molecules,3.1.2,Carbohydrates,carbohydrates-at-c,Colorimetry & Glucose Calibration Curve
+1,Biological Molecules,3.1.3,Lipids,lipids-triglycerides,Triglycerides & Ester Bonds
+1,Biological Molecules,3.1.3,Lipids,lipids-fatty-acids,Saturated & Unsaturated Fatty Acids
+1,Biological Molecules,3.1.3,Lipids,lipids-phospholipids,Phospholipids
+1,Biological Molecules,3.1.3,Lipids,lipids-properties,Relating Structure to Properties
+1,Biological Molecules,3.1.3,Lipids,lipids-emulsion-test,Emulsion Test for Lipids
+1,Biological Molecules,3.1.4.1,General Properties of Proteins,proteins-amino-acids,Amino Acid Structure
+1,Biological Molecules,3.1.4.1,General Properties of Proteins,proteins-peptide-bonds,Peptide Bonds & Polypeptides
+1,Biological Molecules,3.1.4.1,General Properties of Proteins,proteins-structure-levels,Levels of Protein Structure
+1,Biological Molecules,3.1.4.1,General Properties of Proteins,proteins-biuret-test,Biuret Test for Proteins
+1,Biological Molecules,3.1.4.1,General Properties of Proteins,proteins-at-g,Chromatography of Amino Acids
+1,Biological Molecules,3.1.4.2,Many Proteins are Enzymes,enzymes-activation-energy,Activation Energy
+1,Biological Molecules,3.1.4.2,Many Proteins are Enzymes,enzymes-induced-fit,Induced-Fit Model
+1,Biological Molecules,3.1.4.2,Many Proteins are Enzymes,enzymes-active-site,Active Site & Enzyme Specificity
+1,Biological Molecules,3.1.4.2,Many Proteins are Enzymes,enzymes-rate-factors,Factors Affecting Rate of Reaction
+1,Biological Molecules,3.1.4.2,Many Proteins are Enzymes,enzymes-required-practical,Required Practical 1
+1,Biological Molecules,3.1.4.2,Many Proteins are Enzymes,enzymes-ms-0-5,Calculating pH from Hydrogen Ion Concentration
+1,Biological Molecules,3.1.5.1,Structure of DNA and RNA,dna-rna-information,Nucleic Acids as Information Carriers
+1,Biological Molecules,3.1.5.1,Structure of DNA and RNA,dna-rna-nucleotides,Nucleotide Structure
+1,Biological Molecules,3.1.5.1,Structure of DNA and RNA,dna-rna-phosphodiester,Phosphodiester Bonds
+1,Biological Molecules,3.1.5.1,Structure of DNA and RNA,dna-rna-dna-structure,DNA Structure
+1,Biological Molecules,3.1.5.1,Structure of DNA and RNA,dna-rna-rna-structure,RNA Structure
+1,Biological Molecules,3.1.5.1,Structure of DNA and RNA,dna-rna-ms-0-3,Calculating Base Frequencies
+1,Biological Molecules,3.1.5.2,DNA Replication,dna-replication-semi-conservative,Semi-Conservative Replication
+1,Biological Molecules,3.1.5.2,DNA Replication,dna-replication-watson-crick,Validating the Watson–Crick Model
+1,Biological Molecules,3.1.6,ATP,atp-structure,ATP Structure
+1,Biological Molecules,3.1.6,ATP,atp-hydrolysis,ATP Hydrolysis
+1,Biological Molecules,3.1.6,ATP,atp-synthesis,ATP Synthesis
+1,Biological Molecules,3.1.7,Water,water-metabolite-solvent,Water as a Metabolite & Solvent
+1,Biological Molecules,3.1.7,Water,water-thermal,Thermal Properties of Water
+1,Biological Molecules,3.1.7,Water,water-cohesion,Cohesion & Surface Tension
+1,Biological Molecules,3.1.8,Inorganic Ions,inorganic-ions-role,Role of Inorganic Ions
+1,Biological Molecules,3.1.8,Inorganic Ions,inorganic-ions-named,Named Ions & Their Roles
+2,Cells,3.2.1.1,Structure of Eukaryotic Cells,eukaryotic-organelles,Organelle Structure & Function
+2,Cells,3.2.1.1,Structure of Eukaryotic Cells,eukaryotic-specialisation,Cell Specialisation & Organisation
+2,Cells,3.2.1.1,Structure of Eukaryotic Cells,eukaryotic-adaptations,Explaining Cell Adaptations
+2,Cells,3.2.1.2,Structure of Prokaryotic Cells and of Viruses,prokaryotic-structure,Prokaryotic Cell Structure
+2,Cells,3.2.1.2,Structure of Prokaryotic Cells and of Viruses,prokaryotic-viruses,Structure of Viruses
+2,Cells,3.2.1.3,Methods of Studying Cells,methods-microscopes,Principles & Limitations of Microscopes
+2,Cells,3.2.1.3,Methods of Studying Cells,methods-magnification,Magnification & Resolution
+2,Cells,3.2.1.3,Methods of Studying Cells,methods-fractionation,Cell Fractionation & Ultracentrifugation
+2,Cells,3.2.1.3,Methods of Studying Cells,methods-artefacts,Distinguishing Artefacts from Organelles
+2,Cells,3.2.1.3,Methods of Studying Cells,methods-at-def,Identifying Starch Grains in Plant Cells
+2,Cells,3.2.2,All Cells Arise from Other Cells,cell-division-cell-cycle,The Cell Cycle
+2,Cells,3.2.2,All Cells Arise from Other Cells,cell-division-mitosis,Stages of Mitosis
+2,Cells,3.2.2,All Cells Arise from Other Cells,cell-division-cancer,Uncontrolled Cell Division: Tumours & Cancer
+2,Cells,3.2.2,All Cells Arise from Other Cells,cell-division-binary-fission,Binary Fission in Prokaryotes
+2,Cells,3.2.2,All Cells Arise from Other Cells,cell-division-viral-replication,Viral Replication
+2,Cells,3.2.2,All Cells Arise from Other Cells,cell-division-required-practical,Required Practical 2
+2,Cells,3.2.3,Transport Across Cell Membranes,transport-membrane-structure,Membrane Structure & the Fluid-Mosaic Model
+2,Cells,3.2.3,Transport Across Cell Membranes,transport-simple-diffusion,Simple Diffusion
+2,Cells,3.2.3,Transport Across Cell Membranes,transport-facilitated-diffusion,Facilitated Diffusion
+2,Cells,3.2.3,Transport Across Cell Membranes,transport-osmosis,Osmosis
+2,Cells,3.2.3,Transport Across Cell Membranes,transport-active-transport,Active Transport
+2,Cells,3.2.3,Transport Across Cell Membranes,transport-co-transport,Co-Transport
+2,Cells,3.2.3,Transport Across Cell Membranes,transport-adaptations,Adaptations & Factors Affecting Rate of Transport
+2,Cells,3.2.3,Transport Across Cell Membranes,transport-required-practical-3,Required Practical 3
+2,Cells,3.2.3,Transport Across Cell Membranes,transport-required-practical-4,Required Practical 4
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-antigens,Cell Recognition & Antigens
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-phagocytosis,Phagocytosis
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-cellular-response,Cellular Response: T Lymphocytes
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-humoral-response,Humoral Response: B Lymphocytes
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-antibodies,Antibody Structure & Action
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-primary-secondary,Primary & Secondary Immune Responses
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-vaccination,Vaccination & Herd Immunity
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-active-passive,Active & Passive Immunity
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-ethics,Ethical Issues & Evaluating Evidence
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-hiv-structure-replication,HIV Structure & Replication
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-hiv-aids-antibiotics,AIDS & Why Antibiotics Don't Work on Viruses
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-monoclonal-antibodies,Uses of Monoclonal Antibodies
+2,Cells,3.2.4,Cell Recognition and the Immune System,immune-elisa,The ELISA Test
+3,Exchange & Transport,3.3.1,Surface Area to Volume Ratio,sa-volume-ratio,Size and Surface Area to Volume Ratio
+3,Exchange & Transport,3.3.1,Surface Area to Volume Ratio,sa-volume-metabolic-rate,SA:V and Metabolic Rate
+3,Exchange & Transport,3.3.1,Surface Area to Volume Ratio,sa-volume-ps-1-1,Investigating Diffusion with Agar Blocks
+3,Exchange & Transport,3.3.1,Surface Area to Volume Ratio,sa-volume-ms-4-1,Calculating SA:V Ratios
+3,Exchange & Transport,3.3.2,Gas Exchange,gas-exchange-adaptations,Adaptations of Gas Exchange Surfaces
+3,Exchange & Transport,3.3.2,Gas Exchange,gas-exchange-water-loss,Limiting Water Loss in Insects & Xerophytes
+3,Exchange & Transport,3.3.2,Gas Exchange,gas-exchange-human-system,The Human Gas Exchange System
+3,Exchange & Transport,3.3.2,Gas Exchange,gas-exchange-ventilation,Ventilation & the Mechanism of Breathing
+3,Exchange & Transport,3.3.2,Gas Exchange,gas-exchange-lung-disease,"Lung Disease, Risk Factors & Correlation"
+3,Exchange & Transport,3.3.2,Gas Exchange,gas-exchange-at-j,Dissecting Gas Exchange Systems
+3,Exchange & Transport,3.3.2,Gas Exchange,gas-exchange-at-d,Microscopy of Gas Exchange Surfaces
+3,Exchange & Transport,3.3.2,Gas Exchange,gas-exchange-at-b,Measuring Air Volumes
+3,Exchange & Transport,3.3.2,Gas Exchange,gas-exchange-ms-2-2,Pulmonary Ventilation Rate
+3,Exchange & Transport,3.3.3,Digestion and Absorption,digestion-hydrolysis,Digestion of Large Biological Molecules
+3,Exchange & Transport,3.3.3,Digestion and Absorption,digestion-absorption,Absorption in the Ileum
+3,Exchange & Transport,3.3.3,Digestion and Absorption,digestion-ps-1-1,Investigating Digestion & Absorption
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-haemoglobin,Haemoglobin Structure
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-dissociation,Oxygen Transport & the Dissociation Curve
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-adaptation,Different Haemoglobins & Adaptation
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-circulation,Blood Circulation in a Mammal
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-cardiac-cycle,Heart Structure & the Cardiac Cycle
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-vessels,"Structure of Arteries, Arterioles & Veins"
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-tissue-fluid,Capillaries & Tissue Fluid
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-data,Cardiovascular Data & Risk Factors
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-required-practical,Required Practical 5
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-at-h,Investigating Pulse & Heart Rate
+3,Exchange & Transport,3.3.4.1,Mass Transport in Animals,mass-transport-animals-ms-2-2,Calculating Cardiac Output
+3,Exchange & Transport,3.3.4.2,Mass Transport in Plants,mass-transport-plants-xylem,Xylem & the Cohesion-Tension Theory
+3,Exchange & Transport,3.3.4.2,Mass Transport in Plants,mass-transport-plants-phloem,Phloem & the Mass Flow Hypothesis
+3,Exchange & Transport,3.3.4.2,Mass Transport in Plants,mass-transport-plants-evidence,Evaluating Evidence for Mass Flow
+3,Exchange & Transport,3.3.4.2,Mass Transport in Plants,mass-transport-plants-at-b,Using a Potometer
+4,Genetics,3.4.1,"DNA, Genes and Chromosomes",dna-genes-chromosomes-structure,DNA in Prokaryotes & Eukaryotes
+4,Genetics,3.4.1,"DNA, Genes and Chromosomes",dna-genes-chromosomes-genes,Genes & Loci
+4,Genetics,3.4.1,"DNA, Genes and Chromosomes",dna-genes-chromosomes-triplet-code,The Triplet Code
+4,Genetics,3.4.1,"DNA, Genes and Chromosomes",dna-genes-chromosomes-introns-exons,"Exons, Introns & Non-coding DNA"
+4,Genetics,3.4.2,DNA and Protein Synthesis,protein-synthesis-genome-proteome,Genome & Proteome
+4,Genetics,3.4.2,DNA and Protein Synthesis,protein-synthesis-rna-structure,mRNA & tRNA Structure
+4,Genetics,3.4.2,DNA and Protein Synthesis,protein-synthesis-transcription,Transcription
+4,Genetics,3.4.2,DNA and Protein Synthesis,protein-synthesis-translation,Translation
+4,Genetics,3.4.2,DNA and Protein Synthesis,protein-synthesis-genetic-code-data,Interpreting the Genetic Code
+4,Genetics,3.4.3,Genetic Diversity from Mutation or Meiosis,genetic-diversity-gene-mutations,Gene Mutations
+4,Genetics,3.4.3,Genetic Diversity from Mutation or Meiosis,genetic-diversity-non-disjunction,Chromosome Non-disjunction
+4,Genetics,3.4.3,Genetic Diversity from Mutation or Meiosis,genetic-diversity-meiosis,The Process of Meiosis
+4,Genetics,3.4.3,Genetic Diversity from Mutation or Meiosis,genetic-diversity-variation,"Meiosis, Fertilisation & Variation"
+4,Genetics,3.4.3,Genetic Diversity from Mutation or Meiosis,genetic-diversity-at-d,Examining Meiosis Under the Microscope
+4,Genetics,3.4.3,Genetic Diversity from Mutation or Meiosis,genetic-diversity-ms-0-5,Calculating Chromosome Combinations
+4,Genetics,3.4.4,Genetic Diversity and Adaptation,adaptation-genetic-diversity,Genetic Diversity & Natural Selection
+4,Genetics,3.4.4,Genetic Diversity and Adaptation,adaptation-natural-selection,Principles of Natural Selection
+4,Genetics,3.4.4,Genetic Diversity and Adaptation,adaptation-selection-types,Directional & Stabilising Selection
+4,Genetics,3.4.4,Genetic Diversity and Adaptation,adaptation-types,Types of Adaptation
+4,Genetics,3.4.4,Genetic Diversity and Adaptation,adaptation-interpreting-data,Interpreting Selection Data
+4,Genetics,3.4.4,Genetic Diversity and Adaptation,adaptation-ms-2-5,Logarithmic Scales for Bacterial Data
+4,Genetics,3.4.4,Genetic Diversity and Adaptation,adaptation-required-practical,Required Practical 6
+4,Genetics,3.4.5,Species and Taxonomy,species-taxonomy-courtship,Species & Courtship Behaviour
+4,Genetics,3.4.5,Species and Taxonomy,species-taxonomy-phylogenetic,Phylogenetic Classification
+4,Genetics,3.4.5,Species and Taxonomy,species-taxonomy-hierarchy,The Taxonomic Hierarchy & Binomial Naming
+4,Genetics,3.4.5,Species and Taxonomy,species-taxonomy-immunology-genome,Immunology & Genome Sequencing in Classification
+4,Genetics,3.4.6,Biodiversity within a Community,biodiversity-species-richness,Biodiversity & Species Richness
+4,Genetics,3.4.6,Biodiversity within a Community,biodiversity-index,Index of Diversity
+4,Genetics,3.4.6,Biodiversity within a Community,biodiversity-farming,Farming & Biodiversity
+4,Genetics,3.4.7,Investigating Diversity,investigating-diversity-comparing,Comparing Genetic Diversity
+4,Genetics,3.4.7,Investigating Diversity,investigating-diversity-interpreting,Interpreting Sequence Data
+4,Genetics,3.4.7,Investigating Diversity,investigating-diversity-quantitative,Quantitative Investigation of Variation
+4,Genetics,3.4.7,Investigating Diversity,investigating-diversity-at-k,Random Sampling Methods
+4,Genetics,3.4.7,Investigating Diversity,investigating-diversity-ms-1-2,Calculating Mean Values
+4,Genetics,3.4.7,Investigating Diversity,investigating-diversity-ms-1-10,Calculating Standard Deviation
+5,Energy & Ecosystems,3.5.1,Photosynthesis,photosynthesis-light-dependent,The Light-Dependent Reaction
+5,Energy & Ecosystems,3.5.1,Photosynthesis,photosynthesis-light-independent,The Light-Independent Reaction
+5,Energy & Ecosystems,3.5.1,Photosynthesis,photosynthesis-limiting-factors,Limiting Factors & Agricultural Practice
+5,Energy & Ecosystems,3.5.1,Photosynthesis,photosynthesis-at-a,Investigating Rate of Photosynthesis
+5,Energy & Ecosystems,3.5.1,Photosynthesis,photosynthesis-required-practical-7,Required Practical 7
+5,Energy & Ecosystems,3.5.1,Photosynthesis,photosynthesis-required-practical-8,Required Practical 8
+5,Energy & Ecosystems,3.5.2,Respiration,respiration-glycolysis,Glycolysis
+5,Energy & Ecosystems,3.5.2,Respiration,respiration-anaerobic,Anaerobic Respiration
+5,Energy & Ecosystems,3.5.2,Respiration,respiration-link-krebs,The Link Reaction & Krebs Cycle
+5,Energy & Ecosystems,3.5.2,Respiration,respiration-oxidative-phosphorylation,Oxidative Phosphorylation
+5,Energy & Ecosystems,3.5.2,Respiration,respiration-other-substrates,Other Respiratory Substrates
+5,Energy & Ecosystems,3.5.2,Respiration,respiration-at-b,Investigating Dehydrogenase Activity
+5,Energy & Ecosystems,3.5.2,Respiration,respiration-required-practical,Required Practical 9
+5,Energy & Ecosystems,3.5.3,Energy and Ecosystems,energy-ecosystems-biomass,Biomass & Its Measurement
+5,Energy & Ecosystems,3.5.3,Energy and Ecosystems,energy-ecosystems-primary-production,Gross & Net Primary Production
+5,Energy & Ecosystems,3.5.3,Energy and Ecosystems,energy-ecosystems-consumer-production,Net Production of Consumers
+5,Energy & Ecosystems,3.5.3,Energy and Ecosystems,energy-ecosystems-productivity,Primary & Secondary Productivity
+5,Energy & Ecosystems,3.5.3,Energy and Ecosystems,energy-ecosystems-farming,Farming Practices & Energy Transfer
+5,Energy & Ecosystems,3.5.3,Energy and Ecosystems,energy-ecosystems-ms-0-1,Calculating Gross Primary Production
+5,Energy & Ecosystems,3.5.3,Energy and Ecosystems,energy-ecosystems-at-a,Measuring Dry Mass & Energy of Biomass
+5,Energy & Ecosystems,3.5.3,Energy and Ecosystems,energy-ecosystems-ms-2-4,Calculating Net Productivity & Efficiency
+5,Energy & Ecosystems,3.5.3,Energy and Ecosystems,energy-ecosystems-ms-0-3,Calculating Percentage Yields
+5,Energy & Ecosystems,3.5.4,Nutrient Cycles,nutrient-cycles-microorganisms,Role of Microorganisms in Recycling
+5,Energy & Ecosystems,3.5.4,Nutrient Cycles,nutrient-cycles-nitrogen-cycle,The Nitrogen Cycle
+5,Energy & Ecosystems,3.5.4,Nutrient Cycles,nutrient-cycles-fertilisers,Fertilisers & Environmental Issues
+5,Energy & Ecosystems,3.5.4,Nutrient Cycles,nutrient-cycles-ps-1-1,Investigating Minerals & Plant Growth
+6,Respond to Changes,3.6.1.1,Survival and Response,survival-response-growth-factors,Plant Growth Factors & IAA
+6,Respond to Changes,3.6.1.1,Survival and Response,survival-response-taxes-kineses,Taxes & Kineses
+6,Respond to Changes,3.6.1.1,Survival and Response,survival-response-reflex,The Simple Reflex Arc
+6,Respond to Changes,3.6.1.1,Survival and Response,survival-response-at-h,Investigating IAA and Root Growth
+6,Respond to Changes,3.6.1.1,Survival and Response,survival-response-required-practical,Required Practical 10
+6,Respond to Changes,3.6.1.2,Receptors,receptors-pacinian,The Pacinian Corpuscle
+6,Respond to Changes,3.6.1.2,Receptors,receptors-retina,"Rods, Cones & the Human Retina"
+6,Respond to Changes,3.6.1.2,Receptors,receptors-at-h,Investigating Skin Receptors
+6,Respond to Changes,3.6.1.3,Control of Heart Rate,heart-rate-myogenic,"Myogenic Stimulation: SAN, AVN & Purkyne Tissue"
+6,Respond to Changes,3.6.1.3,Control of Heart Rate,heart-rate-control,Receptors & Autonomic Control of Heart Rate
+6,Respond to Changes,3.6.1.3,Control of Heart Rate,heart-rate-at-h,Investigating Human Pulse Rate
+6,Respond to Changes,3.6.1.3,Control of Heart Rate,heart-rate-ms-2-2,Calculating Cardiac Output
+6,Respond to Changes,3.6.2.1,Nerve Impulses,nerve-impulses-neurone-structure,Structure of a Myelinated Motor Neurone
+6,Respond to Changes,3.6.2.1,Nerve Impulses,nerve-impulses-resting-potential,The Resting Potential
+6,Respond to Changes,3.6.2.1,Nerve Impulses,nerve-impulses-action-potential,The Action Potential & All-or-Nothing Principle
+6,Respond to Changes,3.6.2.1,Nerve Impulses,nerve-impulses-passage,Passage of an Action Potential
+6,Respond to Changes,3.6.2.1,Nerve Impulses,nerve-impulses-refractory-period,The Refractory Period
+6,Respond to Changes,3.6.2.1,Nerve Impulses,nerve-impulses-speed,Factors Affecting Speed of Conductance
+6,Respond to Changes,3.6.2.1,Nerve Impulses,nerve-impulses-ms-0-2,Calculating Maximum Impulse Frequency
+6,Respond to Changes,3.6.2.2,Synaptic Transmission,synapses-structure,Structure of a Synapse & Neuromuscular Junction
+6,Respond to Changes,3.6.2.2,Synaptic Transmission,synapses-cholinergic,Transmission Across a Cholinergic Synapse
+6,Respond to Changes,3.6.2.2,Synaptic Transmission,synapses-comparison,Synapse vs Neuromuscular Junction
+6,Respond to Changes,3.6.2.2,Synaptic Transmission,synapses-drugs,Effects of Drugs on Synapses
+6,Respond to Changes,3.6.3,Skeletal Muscles,muscles-antagonistic,Antagonistic Muscle Pairs
+6,Respond to Changes,3.6.3,Skeletal Muscles,muscles-structure,Structure of Skeletal Muscle & the Myofibril
+6,Respond to Changes,3.6.3,Skeletal Muscles,muscles-contraction,The Mechanism of Muscle Contraction
+6,Respond to Changes,3.6.3,Skeletal Muscles,muscles-atp-phosphocreatine,ATP & Phosphocreatine in Contraction
+6,Respond to Changes,3.6.3,Skeletal Muscles,muscles-fibre-types,Slow & Fast Skeletal Muscle Fibres
+6,Respond to Changes,3.6.3,Skeletal Muscles,muscles-at-d,Microscopy of Skeletal Muscle
+6,Respond to Changes,3.6.3,Skeletal Muscles,muscles-at-h,Investigating Muscle Fatigue
+6,Respond to Changes,3.6.4.1,Principles of Homeostasis and Negative Feedback,homeostasis-principles,Why Homeostasis Matters
+6,Respond to Changes,3.6.4.1,Principles of Homeostasis and Negative Feedback,homeostasis-negative-feedback,Negative Feedback
+6,Respond to Changes,3.6.4.2,Control of Blood Glucose Concentration,blood-glucose-liver,Blood Glucose & the Role of the Liver
+6,Respond to Changes,3.6.4.2,Control of Blood Glucose Concentration,blood-glucose-insulin,The Action of Insulin
+6,Respond to Changes,3.6.4.2,Control of Blood Glucose Concentration,blood-glucose-glucagon,The Action of Glucagon
+6,Respond to Changes,3.6.4.2,Control of Blood Glucose Concentration,blood-glucose-adrenaline,The Role of Adrenaline
+6,Respond to Changes,3.6.4.2,Control of Blood Glucose Concentration,blood-glucose-second-messenger,The Second Messenger Model
+6,Respond to Changes,3.6.4.2,Control of Blood Glucose Concentration,blood-glucose-diabetes,Types I and II Diabetes
+6,Respond to Changes,3.6.4.2,Control of Blood Glucose Concentration,blood-glucose-required-practical,Required Practical 11
+6,Respond to Changes,3.6.4.3,Control of Blood Water Potential,kidneys-osmoregulation,Osmoregulation & the Role of ADH
+6,Respond to Changes,3.6.4.3,Control of Blood Water Potential,kidneys-nephron,Structure & Role of the Nephron
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.1,Inheritance,inheritance-genotype-phenotype,Genotype & Phenotype
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.1,Inheritance,inheritance-alleles,"Alleles, Dominance & Zygosity"
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.1,Inheritance,inheritance-crosses,Genetic Diagrams & Crosses
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.1,Inheritance,inheritance-chi-squared,The Chi-Squared Test
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.1,Inheritance,inheritance-at-h,Investigating Genetic Ratios
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.1,Inheritance,inheritance-ms-0-3,Representing Phenotypic Ratios
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.1,Inheritance,inheritance-ms-1-4,Probability in Inheritance
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.2,Populations,populations-definition,"Populations, Gene Pools & Allele Frequency"
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.2,Populations,populations-hardy-weinberg,The Hardy-Weinberg Principle
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.2,Populations,populations-at-k,Collecting Phenotype Frequency Data
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.3,Evolution May Lead to Speciation,speciation-variation,Sources of Variation in Phenotype
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.3,Evolution May Lead to Speciation,speciation-natural-selection,Natural Selection & Allele Frequency
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.3,Evolution May Lead to Speciation,speciation-selection-types,"Stabilising, Directional & Disruptive Selection"
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.3,Evolution May Lead to Speciation,speciation-reproductive-isolation,Reproductive Separation & Speciation
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.3,Evolution May Lead to Speciation,speciation-genetic-drift,Genetic Drift
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.3,Evolution May Lead to Speciation,speciation-explaining,"Explaining Selection, Drift & Speciation"
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.3,Evolution May Lead to Speciation,speciation-ms-1-5,Sampling & Genetic Drift
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.3,Evolution May Lead to Speciation,speciation-ps-1-2,Investigating Random Sampling of Alleles
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.3,Evolution May Lead to Speciation,speciation-at-l,Computer Modelling of Selection & Drift
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.4,Populations in Ecosystems,populations-ecosystems-communities,"Communities, Ecosystems & Niches"
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.4,Populations in Ecosystems,populations-ecosystems-carrying-capacity,"Carrying Capacity, Competition & Predation"
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.4,Populations in Ecosystems,populations-ecosystems-estimating,Estimating Population Size
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.4,Populations in Ecosystems,populations-ecosystems-succession,Succession
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.4,Populations in Ecosystems,populations-ecosystems-conservation,Conservation & Managing Succession
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.4,Populations in Ecosystems,populations-ecosystems-at-h,Mark-Release-Recapture in Practice
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.4,Populations in Ecosystems,populations-ecosystems-at-i,Turbidity & Microbial Growth Rate
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.4,Populations in Ecosystems,populations-ecosystems-ms-2-5,Logarithmic Scales for Population Growth
+7,"Genetics, Populations, Evolution & Ecosystems",3.7.4,Populations in Ecosystems,populations-ecosystems-required-practical,Required Practical 12
+8,Gene Expression,3.8.1,Mutations and Protein Structure,gene-mutations-types,Types of Gene Mutation
+8,Gene Expression,3.8.1,Mutations and Protein Structure,gene-mutations-effects,Effects of Mutations on the Polypeptide
+8,Gene Expression,3.8.2.1,Stem Cells and Cell Specialisation,stem-cells-totipotent,Totipotent Cells & Specialisation
+8,Gene Expression,3.8.2.1,Stem Cells and Cell Specialisation,stem-cells-types,"Pluripotent, Multipotent & Unipotent Cells"
+8,Gene Expression,3.8.2.1,Stem Cells and Cell Specialisation,stem-cells-evaluation,Evaluating the Use of Stem Cells
+8,Gene Expression,3.8.2.1,Stem Cells and Cell Specialisation,stem-cells-at-i,Tissue Culture of Explants
+8,Gene Expression,3.8.2.2,Regulation of Transcription and Translation,reg-transcription-factors,Transcriptional Factors & Oestrogen
+8,Gene Expression,3.8.2.2,Regulation of Transcription and Translation,reg-epigenetics,Epigenetic Control of Gene Expression
+8,Gene Expression,3.8.2.2,Regulation of Transcription and Translation,reg-rnai,RNA Interference
+8,Gene Expression,3.8.2.2,Regulation of Transcription and Translation,reg-interpreting-data,Interpreting Gene Expression Data
+8,Gene Expression,3.8.2.3,Gene Expression and Cancer,cancer-tumours,Benign & Malignant Tumours
+8,Gene Expression,3.8.2.3,Gene Expression and Cancer,cancer-genes,"Oncogenes, Tumour Suppressor Genes & Oestrogen"
+8,Gene Expression,3.8.2.3,Gene Expression and Cancer,cancer-evaluating,Evaluating Cancer Evidence & Treatment
+8,Gene Expression,3.8.3,Using Genome Projects,genome-projects-sequencing,Sequencing Genomes & Determining Proteomes
+8,Gene Expression,3.8.3,Using Genome Projects,genome-projects-complexity,Complex Genomes & Sequencing Methods
+8,Gene Expression,3.8.4.1,Recombinant DNA Technology,recombinant-dna-principles,Principles of Recombinant DNA Technology
+8,Gene Expression,3.8.4.1,Recombinant DNA Technology,recombinant-dna-fragments,Producing DNA Fragments
+8,Gene Expression,3.8.4.1,Recombinant DNA Technology,recombinant-dna-pcr,Amplification by PCR (in vitro)
+8,Gene Expression,3.8.4.1,Recombinant DNA Technology,recombinant-dna-in-vivo,Transformed Host Cells (in vivo)
+8,Gene Expression,3.8.4.1,Recombinant DNA Technology,recombinant-dna-issues,"Ethical, Financial & Social Issues"
+8,Gene Expression,3.8.4.1,Recombinant DNA Technology,recombinant-dna-at-g,Investigating Restriction Enzyme Specificity
+8,Gene Expression,3.8.4.2,DNA Probes and Screening,dna-probes-hybridisation,DNA Probes & Hybridisation
+8,Gene Expression,3.8.4.2,DNA Probes and Screening,dna-probes-screening,"Screening, Counselling & Personalised Medicine"
+8,Gene Expression,3.8.4.3,Genetic Fingerprinting,genetic-fingerprinting-vntrs,Variable Number Tandem Repeats
+8,Gene Expression,3.8.4.3,Genetic Fingerprinting,genetic-fingerprinting-technique,The Technique of Genetic Fingerprinting
+8,Gene Expression,3.8.4.3,Genetic Fingerprinting,genetic-fingerprinting-uses,Uses of Genetic Fingerprinting
+8,Gene Expression,3.8.4.3,Genetic Fingerprinting,genetic-fingerprinting-at-g,Gel Electrophoresis of Food Dyes
