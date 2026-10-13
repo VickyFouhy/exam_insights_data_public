@@ -1,8 +1,10 @@
 # Exam Insights Data
 
-Data about past exam questions, for students and teachers who want to run their own analysis. Which topics come up most? Which spec points haven't been examined recently?
+Data about past exam questions, for students and teachers who want to run their own analysis. 
 
-Note: This does NOT include any of the question, mark scheme, or examiner report material. It's just the question reference, tagged with topic/spec point and type of question.
+These **Exam Insights** are shown on the page on [Random Walker](https://www.arandomwalker.xyz/insights/).
+
+Note: This does NOT include any of the question, mark scheme, or examiner report material. It also doesn't include the common misconceptions / tips which are shown on the above page. It's just the question reference, tagged with topic/spec point and type of question.
 
 Each course has its own folder in `courses/`.
 
@@ -56,10 +58,6 @@ Each question **part** (e.g. 3.2, not just question 3) is tagged with the specif
 Tagging is a judgement call. Two people can read the same question and link it to different spec points. The reason for providing this data here is that you are encouraged to check the tags, change them, or add your own.
 
 If you think a tag is wrong, open an issue on this repo.
-
-### See it on the website
-
-These tags power the **Exam Insights** page on [Random Walker](https://www.arandomwalker.xyz/insights/). It shows which topics come up most, how each one is tested, and common mistakes from the examiner reports. Do your own analysis first, then compare.
 
 ## Licence
 
