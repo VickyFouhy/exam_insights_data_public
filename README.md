@@ -1,6 +1,8 @@
-# Exam Insights data
+# Exam Insights Data
 
-Data about past exam questions, for students and teachers who want to run their own analysis. Which topics come up most? Which spec points haven't been examined recently? How many marks are maths skills?
+Data about past exam questions, for students and teachers who want to run their own analysis. Which topics come up most? Which spec points haven't been examined recently?
+
+Note: This does NOT include any of the question, mark scheme, or examiner report material. It's just the question reference, tagged with topic/spec point and type of question.
 
 Each course has its own folder in `courses/`.
 
@@ -8,17 +10,20 @@ Each course has its own folder in `courses/`.
 
 **Source:** AQA A-level Biology (7402) past papers, 2017 to 2025, Papers 1 to 3. Each question part is tagged with the specification points it assesses.
 
-This dataset is not affiliated with or endorsed by AQA. It contains facts about the questions (year, paper, marks, topic, tags), not the questions themselves. The past papers are on [AQA's website](https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/assessment-resources).
+This dataset is not affiliated with or endorsed by AQA.
 
-### Files
+### The data
 
-In `courses/aqa-7402-biology/`:
+**[`questions.csv`](courses/aqa-7402-biology/questions.csv) is the data:** one row per question part (920 parts, 2565 marks). Open it in Excel, Google Sheets or any analysis tool.
 
-| File | What's in it |
+**[Download questions.csv](https://raw.githubusercontent.com/VickyFouhy/exam_insights_data_public/main/courses/aqa-7402-biology/questions.csv)**, or click **Code → Download ZIP** at the top of this page for all the files.
+
+The other two files are lookup tables for the tags:
+
+| File | What it's for |
 |---|---|
-| `questions.csv` | One row per question part (920 parts, 2565 marks) |
-| `spec-points.csv` | Every spec point used in the tags, with its unit and reference number (e.g. 3.1.3) |
-| `skills.csv` | The skill codes used in the tags and what type of skill each one is |
+| [`spec-points.csv`](courses/aqa-7402-biology/spec-points.csv) | Turns a spec point tag (e.g. `lipids-fatty-acids`) into its name, unit and reference number (e.g. 3.1.3) |
+| [`skills.csv`](courses/aqa-7402-biology/skills.csv) | Says what type of skill each skill code is (e.g. `MS 0.3` is a maths skill) |
 
 **Columns in `questions.csv`:**
 
@@ -40,7 +45,7 @@ In `courses/aqa-7402-biology/`:
 Each question **part** (e.g. 3.2, not just question 3) is tagged with the specification points it assesses, using the AQA A-level Biology (7402) specification.
 
 - **Content tags** name the spec point, e.g. `lipids-fatty-acids`. `spec-points.csv` lists each one with its name and reference number.
-- **Skills tags** use AQA's own skill codes: **MS** (maths skills), **AT** (apparatus and techniques) and **PS** (practical skills), e.g. `MS 0.3` for a percentage calculation. Their full descriptions are in the appendices of the [AQA specification](https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/specification/specification-at-a-glance).
+- **Skills tags** use AQA's own skill codes: **MS** (maths skills), **AT** (apparatus and techniques) and **PS** (practical skills), e.g. `MS 0.3` for a percentage calculation. Their full descriptions are in the appendices of the AQA specification.
 - **A part can have several tags.** 395 of the 920 parts have two or more, e.g. a question on fatty acid structure *and* melting point is tagged with both spec points.
 - Tags are based on what the question part asks you to know or do, not just its topic heading. A calculation set in an ecology context gets the ecology spec point *and* the maths skill.
 
@@ -48,22 +53,9 @@ Each question **part** (e.g. 3.2, not just question 3) is tagged with the specif
 
 ### Disagree with a tag? Retag it
 
-Tagging is a judgement call. Two people can read the same question and link it to different spec points. You're encouraged to check the tags, change them, or add your own. Some ideas:
-
-- Retag a paper yourself, then compare your tags with these. Where you disagree, ask which spec point the mark scheme is really rewarding.
-- Add a column for your own tags and see whether it changes which topics look most examined.
+Tagging is a judgement call. Two people can read the same question and link it to different spec points. The reason for providing this data here is that you are encouraged to check the tags, change them, or add your own.
 
 If you think a tag is wrong, open an issue on this repo.
-
-### Get started
-
-`analyse.py` counts the question parts and marks for each topic. It needs Python 3 and nothing else:
-
-```
-python3 analyse.py
-```
-
-Use it as a starting point for your own questions.
 
 ### See it on the website
 
