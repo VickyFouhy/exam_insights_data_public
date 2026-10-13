@@ -57,8 +57,6 @@ Each question **part** (e.g. 3.2, not just question 3) is tagged with the specif
 
 Tagging is a judgement call. Two people can read the same question and link it to different spec points. The reason for providing this data here is that you are encouraged to check the tags, change them, or add your own.
 
-If you think a tag is wrong, open an issue on this repo.
-
 ## Licence
 
 MIT (see `LICENSE`).
