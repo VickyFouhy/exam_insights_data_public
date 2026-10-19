@@ -36,7 +36,6 @@ The other two files are lookup tables for the tags:
 | `paper` | `1` | Paper 1, 2 or 3 |
 | `question` | `1.1` | Question number as printed on the paper |
 | `marks` | `3` | Marks available |
-| `command_word` | `Describe` | What the question asks you to do (blank for some parts) |
 | `unit` | `3.4` | Specification section |
 | `topic` | `DNA and protein synthesis` | Topic of the question |
 | `spec_points` | `protein-synthesis-transcription; dna-rna-dna-structure` | Content spec points it tests (look them up in `spec-points.csv`) |
